@@ -41,24 +41,11 @@ fairy/
 Fetch directly via jsdelivr. Example:
 
 ```
-https://cdn.jsdelivr.net/gh/<user>/chess-engines@v1/stockfish/19/stockfish.js
-https://cdn.jsdelivr.net/gh/<user>/chess-engines@v1/stockfish/19/stockfish.wasm
+https://cdn.jsdelivr.net/gh/ThatKidGlitchy/chess-engines@v1/stockfish/19/stockfish.js
+https://cdn.jsdelivr.net/gh/ThatKidGlitchy/chess-engines@v1/stockfish/19/stockfish.wasm
 ```
 
 Load `stockfish.js` as a Worker, send UCI commands as usual.
-
-## Updating
-
-Edit the files, commit, push a new tag:
-
-```bash
-git add .
-git commit -m "update note"
-git tag v2
-git push origin main v2
-```
-
-Bump the `@v1` to `@v2` in whatever consumer script references these URLs. jsdelivr caches aggressively, so the tag bump is what forces a refresh.
 
 ## Sources
 

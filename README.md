@@ -10,7 +10,7 @@ This repo collects **single-threaded builds only**. Every file here loads and ru
 
 ## What's used for
 
-Originally built for a chess.com helper userscript that needs an engine on pages the site doesn't make cross-origin isolated. Anyone writing a browser-side chess tool with the same constraint can point at these URLs via jsdelivr instead of re-sourcing engines themselves.
+Originally built for [chess-hacks](https://github.com/ThatKidGlitchy/chess-hacks), a chess.com helper userscript that needs an engine on pages the site doesn't make cross-origin isolated. Anyone writing a browser-side chess tool with the same constraint can point at these URLs via jsdelivr instead of re-sourcing engines themselves.
 
 ## Layout
 

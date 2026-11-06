@@ -34,6 +34,9 @@ lozza/
 
 garbochess/
   1/   garbochess.js  (Gary Linscott's Garbochess-JS + UCI wrapper, pure JS)
+
+fairy/
+  1/   fsf_14.js + fsf_14.wasm + nn-3475407dc199.nnue  (Fairy-Stockfish 14 from @lichess-org/stockfish-web — MULTI-THREADED, needs SharedArrayBuffer)
 ```
 
 ## Usage
@@ -52,6 +55,7 @@ Load `stockfish.js` as a Worker, send UCI commands as usual.
 - Stockfish 8–19: pulled from the `stockfish` npm package's single-threaded variants.
 - Lozza v1.18 / v3.0 / v11.0: pulled from `github.com/op12no2/lozza` release tags.
 - Garbochess-JS: `github.com/glinscott/Garbochess-JS`, original `js/garbochess.js` with a small appended UCI wrapper so it responds to `uci`, `position`, `go depth N`, `stop`, `quit` the same way the Stockfish/Lozza builds do.
+- Fairy-Stockfish 14 (`fairy/1/`): straight from `@lichess-org/stockfish-web@0.5.0`. **This build is multi-threaded and requires `SharedArrayBuffer`** — the host page must be cross-origin isolated (COOP + COEP headers). It will not work on sites that don't expose SAB (like chess.com). Included here for completeness and for projects running on compatible hosts (e.g. lichess-style setups or a site you control). The NNUE file is distributed alongside the wasm as `nn-3475407dc199.nnue`.
 
 ## Why only "notable" versions
 

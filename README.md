@@ -32,9 +32,6 @@ lozza/
   3/   lozza.js  (v3.0)
   11/  lozza.js  (v11.0, NNUE)
 
-fairy/
-  1/   stockfish.js + stockfish.wasm  (Fairy-Stockfish, recompiled single-threaded)
-
 garbochess/
   1/   garbochess.js  (Gary Linscott's Garbochess-JS + UCI wrapper, pure JS)
 ```
@@ -54,7 +51,6 @@ Load `stockfish.js` as a Worker, send UCI commands as usual.
 
 - Stockfish 8–19: pulled from the `stockfish` npm package's single-threaded variants.
 - Lozza v1.18 / v3.0 / v11.0: pulled from `github.com/op12no2/lozza` release tags.
-- Fairy-Stockfish v1: built from `github.com/fairy-stockfish/fairy-stockfish.wasm` on the `nnue` branch with `USE_PTHREADS` and `PROXY_TO_PTHREAD` removed from `src/emscripten/Makefile` and Closure minification disabled (`minify_js=no`). Output is single-threaded with full embedded NNUE.
 - Garbochess-JS: `github.com/glinscott/Garbochess-JS`, original `js/garbochess.js` with a small appended UCI wrapper so it responds to `uci`, `position`, `go depth N`, `stop`, `quit` the same way the Stockfish/Lozza builds do.
 
 ## Why only "notable" versions

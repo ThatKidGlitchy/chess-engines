@@ -2515,7 +2515,7 @@ self.onmessage = function (e) {
 }
 
 /* --- UCI wrapper (added for chess-engines repo) --- */
-(function () {
+;(function () {
   if (typeof self === 'undefined' || typeof self.postMessage !== 'function') return;
 
   var ready = false;

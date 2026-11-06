@@ -2525,6 +2525,7 @@ self.onmessage = function (e) {
   function ensureInit() {
     if (!ready) {
       try { InitializeEval(); } catch (e) {}
+      try { ResetGame(); } catch (e) {}
       try { InitializeFromFen("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"); } catch (e) {}
       ready = true;
     }
@@ -2616,6 +2617,7 @@ self.onmessage = function (e) {
       uciOut('readyok');
     } else if (line === 'ucinewgame') {
       ensureInit();
+      try { ResetGame(); } catch (ex) {}
       try { InitializeFromFen("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"); } catch (ex) {}
     } else if (line.indexOf('position') === 0) {
       handlePosition(line);

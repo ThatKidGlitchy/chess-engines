@@ -1,0 +1,369 @@
+Piece set credits
+=================
+
+Colour variants share the license of their set.
+
+Adventurer
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Alfarishy
+  Author: Jordan Alfarishy
+  License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  Source: https://sharechess.github.io
+
+Alfonso X
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Anarcandy
+  Author: caderek
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Caliente
+  Author: avi
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+California
+  Author: Jerry S.
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Cardinal
+  Author: sadsnake1
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Cases
+  Author: Matthieu Leschemelle, Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Cburnett
+  Author: Colin M.L. Burnett
+  License: GPLv2+ (https://www.gnu.org/licenses/gpl-2.0.txt)
+  Source: https://github.com/lichess-org/lila
+
+Celtic
+  Author: Maurizio Monge
+  License: MIT (https://opensource.org/license/mit)
+  Source: https://github.com/lichess-org/lila
+
+Chess7
+  Author: Sizenko Alexander (Style-7)
+  License: freeware
+  Source: https://sharechess.github.io
+
+Chessnut
+  Author: Alexis Luengas
+  License: Apache 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+  Source: https://sharechess.github.io
+
+Companion
+  Author: David L. Brown
+  License: freeware
+  Source: https://sharechess.github.io
+
+Condal
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Cooke
+  Author: fejfar
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Disguised
+  Author: danegraphics
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Dmuysi
+  Author: Zach Bogart
+  License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  Source: https://sharechess.github.io
+
+Dubrovny
+  Author: sadsnake1
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Echiquier
+  Author: Vincent Tellier
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+  Source: https://sharechess.github.io
+
+Fantasy
+  Author: Maurizio Monge
+  License: MIT (https://opensource.org/license/mit)
+  Source: https://sharechess.github.io
+
+Firi
+  Author: James Faure
+  License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Fresca
+  Author: sadsnake1
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Gioco
+  Author: sadsnake1
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Governor
+  Author: Unknown
+  License: Not stated
+  Source: https://github.com/lichess-org/lila
+
+Harlequin
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Horsey
+  Author: cham, michael1241
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Icon54
+  Author: icon 54
+  License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  Source: https://sharechess.github.io
+
+Icpieces
+  Author: sadsnake1
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Kingdom
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Kiwen Suwi
+  Author: neverRare
+  License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Kosal
+  Author: Philatype
+  License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+  Source: https://sharechess.github.io
+
+Leipzig
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Letter
+  Author: usolando
+  License: AGPLv3+ (https://www.gnu.org/licenses/agpl-3.0.txt)
+  Source: https://github.com/lichess-org/lila
+
+Line
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Lucena
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Maestro
+  Author: sadsnake1
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Magnetic
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Mark
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Marroquin
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Maya
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Mediaeval
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Merida
+  Author: Armando Hernandez Marroquin
+  License: GPLv2+ (https://www.gnu.org/licenses/gpl-2.0.txt)
+  Source: https://github.com/lichess-org/lila
+
+Millennia
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Monarchy
+  Author: slither77
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Mono
+  Author: Thibault Duplessis, Colin M.L. Burnett
+  License: GPLv2+ (https://www.gnu.org/licenses/gpl-2.0.txt)
+  Source: https://github.com/lichess-org/lila
+
+Motif
+  Author: Armando Hernandez Marroquin
+  License: freeware
+  Source: https://sharechess.github.io
+
+Mpchess
+  Author: Maxime Chupin
+  License: GPLv3+ (https://www.gnu.org/licenses/gpl-3.0.txt)
+  Source: https://github.com/lichess-org/lila
+
+Papercut
+  Author: Nikolay Anzarov
+  License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Pirat
+  Author: Klaus Wolf
+  License: freeware
+  Source: https://sharechess.github.io
+
+Pirouetti
+  Author: pirouetti
+  License: AGPLv3+ (https://www.gnu.org/licenses/agpl-3.0.txt)
+  Source: https://github.com/lichess-org/lila
+
+Pixel
+  Author: therealqtpi
+  License: AGPLv3+ (https://www.gnu.org/licenses/agpl-3.0.txt)
+  Source: https://github.com/lichess-org/lila
+
+Qootee
+  Author: Zaphroz
+  License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+  Source: https://sharechess.github.io
+
+Regular
+  Author: Alastair Scott
+  License: freeware
+  Source: https://sharechess.github.io
+
+Reillycraig
+  Author: Reilly Craig
+  License: free of charge
+  Source: https://sharechess.github.io
+
+RhosGFX Flat
+  Author: RhosGFX
+  License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+  Source: https://rhosgfx.itch.io/vector-chess-pieces
+
+RhosGFX Regular
+  Author: RhosGFX
+  License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+  Source: https://rhosgfx.itch.io/vector-chess-pieces
+
+RhosGFX Regular Outline
+  Author: RhosGFX
+  License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+  Source: https://rhosgfx.itch.io/vector-chess-pieces
+
+RhosGFX Wood
+  Author: RhosGFX
+  License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+  Source: https://rhosgfx.itch.io/vector-chess-pieces
+
+RhosGFX Wood Outline
+  Author: RhosGFX
+  License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+  Source: https://rhosgfx.itch.io/vector-chess-pieces
+
+Riohacha
+  Author: Unknown
+  License: Not stated
+  Source: https://github.com/lichess-org/lila
+
+Saakyan
+  Author: Sergey Saakyan
+  License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  Source: https://sharechess.github.io
+
+Shapes
+  Author: flugsio
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+  Source: https://sharechess.github.io
+
+Smart
+  Author: Christoph Wirth
+  License: free
+  Source: https://sharechess.github.io
+
+Spatial
+  Author: Maurizio Monge
+  License: MIT (https://opensource.org/license/mit)
+  Source: https://sharechess.github.io
+
+Staunty
+  Author: sadsnake1
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Tatiana
+  Author: sadsnake1
+  License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Totoy
+  Author: Kosal Sen
+  License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+  Source: https://github.com/lichess-org/lila
+
+Traveller
+  Author: Alan Cowderoy
+  License: freeware
+  Source: https://sharechess.github.io
+
+Trendy
+  Author: Benjamin Kinard
+  License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  Source: https://sharechess.github.io
+
+Utrecht
+  Author: Hans Bodlaender
+  License: freeware
+  Source: https://sharechess.github.io
+
+Vecon
+  Author: vecon
+  License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  Source: https://sharechess.github.io
+
+Wisdom
+  Author: Vladimir Nikolic
+  License: 100% free chess font
+  Source: https://sharechess.github.io
+
+Xkcd
+  Author: Randall Munroe
+  License: CC BY-NC 2.5 (https://creativecommons.org/licenses/by-nc/2.5/)
+  Source: https://xkcd.com/license.html

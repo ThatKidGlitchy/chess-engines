@@ -1,0 +1,98 @@
+{
+  "en": {
+    "_name": "English",
+    "langPickerTitle": "Choose your language",
+    "langPickerSub": "You can change this later in Settings.",
+    "langPickerContinue": "Continue"
+  },
+  "es": {
+    "_name": "Español",
+    "langPickerTitle": "Elige tu idioma",
+    "langPickerSub": "Puedes cambiarlo más tarde en Ajustes.",
+    "langPickerContinue": "Continuar"
+  },
+  "fr": {
+    "_name": "Français",
+    "langPickerTitle": "Choisissez votre langue",
+    "langPickerSub": "Vous pouvez la changer plus tard dans les Réglages.",
+    "langPickerContinue": "Continuer"
+  },
+  "de": {
+    "_name": "Deutsch",
+    "langPickerTitle": "Wähle deine Sprache",
+    "langPickerSub": "Du kannst sie später in den Einstellungen ändern.",
+    "langPickerContinue": "Weiter"
+  },
+  "pt": {
+    "_name": "Português",
+    "langPickerTitle": "Escolha seu idioma",
+    "langPickerSub": "Você pode mudar depois em Ajustes.",
+    "langPickerContinue": "Continuar"
+  },
+  "ru": {
+    "_name": "Русский",
+    "langPickerTitle": "Выберите язык",
+    "langPickerSub": "Можно изменить позже в настройках.",
+    "langPickerContinue": "Продолжить"
+  },
+  "it": {
+    "_name": "Italiano",
+    "langPickerTitle": "Scegli la tua lingua",
+    "langPickerSub": "Puoi cambiarla più tardi nelle Impostazioni.",
+    "langPickerContinue": "Continua"
+  },
+  "pl": {
+    "_name": "Polski",
+    "langPickerTitle": "Wybierz swój język",
+    "langPickerSub": "Możesz to zmienić później w Ustawieniach.",
+    "langPickerContinue": "Kontynuuj"
+  },
+  "nl": {
+    "_name": "Nederlands",
+    "langPickerTitle": "Kies je taal",
+    "langPickerSub": "Je kunt dit later wijzigen in Instellingen.",
+    "langPickerContinue": "Doorgaan"
+  },
+  "tr": {
+    "_name": "Türkçe",
+    "langPickerTitle": "Dilini seç",
+    "langPickerSub": "Bunu daha sonra Ayarlar'dan değiştirebilirsin.",
+    "langPickerContinue": "Devam"
+  },
+  "zh": {
+    "_name": "简体中文",
+    "langPickerTitle": "选择你的语言",
+    "langPickerSub": "稍后可在设置中更改。",
+    "langPickerContinue": "继续"
+  },
+  "ja": {
+    "_name": "日本語",
+    "langPickerTitle": "言語を選択",
+    "langPickerSub": "後で設定から変更できます。",
+    "langPickerContinue": "続ける"
+  },
+  "ko": {
+    "_name": "한국어",
+    "langPickerTitle": "언어 선택",
+    "langPickerSub": "나중에 설정에서 변경할 수 있습니다.",
+    "langPickerContinue": "계속"
+  },
+  "uk": {
+    "_name": "Українська",
+    "langPickerTitle": "Виберіть мову",
+    "langPickerSub": "Можна змінити пізніше в налаштуваннях.",
+    "langPickerContinue": "Продовжити"
+  },
+  "hi": {
+    "_name": "हिन्दी",
+    "langPickerTitle": "अपनी भाषा चुनें",
+    "langPickerSub": "आप इसे बाद में सेटिंग्स में बदल सकते हैं।",
+    "langPickerContinue": "जारी रखें"
+  },
+  "ar": {
+    "_name": "العربية",
+    "langPickerTitle": "اختر لغتك",
+    "langPickerSub": "يمكنك تغيير ذلك لاحقاً في الإعدادات.",
+    "langPickerContinue": "متابعة"
+  }
+}

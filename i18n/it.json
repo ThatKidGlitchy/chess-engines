@@ -89,5 +89,10 @@
   "tipDetScore": "Punteggio di sospetto multifattoriale corretto per l'ELO dell'avversario. Combina rapporto CPL, divario tasso miglior mossa, bonus zero errori gravi e divario precisione vs atteso.",
   "langPickerTitle": "Scegli la tua lingua",
   "langPickerSub": "Puoi cambiarla più tardi nelle Impostazioni.",
-  "langPickerContinue": "Continua"
+  "langPickerContinue": "Continua",
+  "changelog_1_4_4": [
+    "<b>Scheda Scacchiere</b> — terza pagina della scheda Skins con una galleria di temi di scacchiera. Clicca su una tile e il tema si applica subito. Ricercabile come i set di pezzi, con credit ai creatori.",
+    "<b>Più set di pezzi predefiniti</b> — catalogo Lichess / Rhosgfx / Sharechess ampliato, più opzioni senza dover caricare le tue.",
+    "<b>L'Auto-play non si blocca più contro avversari veloci</b> — se l'avversario fa una premove o risponde in meno di ~300 ms, la sua mossa era già sulla scacchiera quando lo script finiva la tua, e l'auto-play restava in attesa di un cambio FEN già avvenuto. Ora lo rileva e continua subito."
+  ]
 }

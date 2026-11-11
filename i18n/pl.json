@@ -89,5 +89,10 @@
   "tipDetScore": "Wielowymiarowy wynik podejrzenia skorygowany o ELO przeciwnika. Łączy stosunek CPL, lukę wskaźnika najlepszych, bonus za brak gaf i lukę dokładności vs oczekiwana.",
   "langPickerTitle": "Wybierz swój język",
   "langPickerSub": "Możesz to zmienić później w Ustawieniach.",
-  "langPickerContinue": "Kontynuuj"
+  "langPickerContinue": "Kontynuuj",
+  "changelog_1_4_4": [
+    "<b>Zakładka Szachownice</b> — trzecia strona zakładki Skins z galerią motywów szachownicy. Kliknij kafelek i szata graficzna zostaje nałożona od razu. Z wyszukiwaniem jak przy zestawach bierek, pełne kredyty dla autorów.",
+    "<b>Więcej gotowych zestawów bierek</b> — poszerzony katalog Lichess / Rhosgfx / Sharechess, więcej opcji bez wgrywania własnych.",
+    "<b>Auto-play już nie zawiesza się przy szybkich przeciwnikach</b> — jeśli przeciwnik pre-ruchowy lub odpowiada szybciej niż ~300 ms, jego ruch był już na szachownicy zanim skrypt skończył twój, a auto-play czekał na zmianę FEN, która już się odbyła. Teraz to wykrywa i gra dalej."
+  ]
 }

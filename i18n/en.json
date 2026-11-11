@@ -89,5 +89,10 @@
   "tipDetScore": "Multi-factor suspicion score adjusted for the opponent's ELO. Combines ACPL ratio, best-move rate gap, zero-blunder bonus, and accuracy gap vs expected stats for their rating.",
   "langPickerTitle": "Choose your language",
   "langPickerSub": "You can change this later in Settings.",
-  "langPickerContinue": "Continue"
+  "langPickerContinue": "Continue",
+  "changelog_1_4_4": [
+    "<b>Boards tab</b> — third page on the Skins tab with a gallery of board themes. Click a tile and the board artwork applies instantly. Searchable, like the premade piece sets, with full credits to the original artists.",
+    "<b>More premade piece sets</b> — expanded the Lichess / Rhosgfx / Sharechess catalog so there are more options on the premade page without having to upload your own.",
+    "<b>Auto-play no longer freezes against fast opponents</b> — if the opponent premoves or replies in under ~300 ms, their move was already on the board by the time the script finished playing yours, which left auto-play stuck waiting for a FEN change that had already happened. Auto-play now detects this case and keeps going immediately."
+  ]
 }

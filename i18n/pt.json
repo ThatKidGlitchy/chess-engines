@@ -89,5 +89,10 @@
   "tipDetScore": "Pontuação de suspeita multifator ajustada ao ELO do oponente. Combina razão CPL, diferença da taxa de melhor lance, bônus sem erros graves e diferença de precisão vs esperado.",
   "langPickerTitle": "Escolha seu idioma",
   "langPickerSub": "Você pode mudar depois em Ajustes.",
-  "langPickerContinue": "Continuar"
+  "langPickerContinue": "Continuar",
+  "changelog_1_4_4": [
+    "<b>Aba Tabuleiros</b> — terceira página da aba Skins com uma galeria de temas de tabuleiro. Clique em uma miniatura e o tabuleiro muda na hora. Com busca, como os sets de peças, e créditos aos artistas.",
+    "<b>Mais sets de peças prontos</b> — ampliamos o catálogo Lichess / Rhosgfx / Sharechess para ter mais opções sem precisar fazer upload.",
+    "<b>Auto-play não trava mais contra adversários rápidos</b> — se o oponente pré-jogar ou responder em menos de ~300 ms, a jogada já estava no tabuleiro quando o script terminava a sua, e o auto-play ficava esperando uma mudança de FEN que já ocorreu. Agora ele detecta isso e segue direto."
+  ]
 }

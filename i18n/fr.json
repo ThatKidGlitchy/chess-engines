@@ -89,5 +89,10 @@
   "tipDetScore": "Score de suspicion multifactoriel ajusté à l'ELO adverse. Combine ratio CPL, écart de taux de meilleur coup, bonus sans gaffe et écart de précision vs attendu.",
   "langPickerTitle": "Choisissez votre langue",
   "langPickerSub": "Vous pouvez la changer plus tard dans les Réglages.",
-  "langPickerContinue": "Continuer"
+  "langPickerContinue": "Continuer",
+  "changelog_1_4_4": [
+    "<b>Onglet Échiquiers</b> — troisième page dans l'onglet Skins avec une galerie de thèmes. Cliquez sur une tuile et l'habillage s'applique immédiatement. Recherche intégrée, comme pour les jeux de pièces, crédits aux artistes.",
+    "<b>Plus de jeux de pièces préfabriqués</b> — nous avons élargi le catalogue Lichess / Rhosgfx / Sharechess, donc plus de choix sans avoir à importer les vôtres.",
+    "<b>L'Auto-jeu ne se bloque plus contre les adversaires rapides</b> — si l'adversaire enchaîne ou répond en moins de ~300 ms, son coup était déjà sur l'échiquier quand le script finissait le vôtre, et l'auto-jeu attendait un changement de FEN déjà survenu. Il détecte désormais ce cas et continue immédiatement."
+  ]
 }

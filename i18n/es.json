@@ -89,5 +89,10 @@
   "tipDetScore": "Puntuación de sospecha multifactor ajustada al ELO del rival. Combina ratio de CPL, diferencia de tasa de mejor jugada, bono sin errores graves y diferencia de precisión vs estadísticas esperadas.",
   "langPickerTitle": "Elige tu idioma",
   "langPickerSub": "Puedes cambiarlo más tarde en Ajustes.",
-  "langPickerContinue": "Continuar"
+  "langPickerContinue": "Continuar",
+  "changelog_1_4_4": [
+    "<b>Pestaña Tableros</b> — tercera página en la pestaña Skins con una galería de temas de tablero. Pulsa una miniatura y el diseño del tablero se aplica al instante. Con búsqueda, como los sets de piezas, y créditos completos a los artistas.",
+    "<b>Más sets de piezas prediseñados</b> — ampliamos el catálogo de Lichess / Rhosgfx / Sharechess para que haya más opciones sin tener que subir las tuyas.",
+    "<b>El Auto-juego ya no se queda bloqueado contra rivales rápidos</b> — si el rival premueve o responde en menos de ~300 ms, su jugada ya estaba en el tablero cuando el script terminaba la tuya, y el auto-juego se quedaba esperando un cambio de FEN que ya había ocurrido. Ahora lo detecta y sigue sin pausas."
+  ]
 }

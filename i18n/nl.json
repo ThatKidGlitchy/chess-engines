@@ -89,5 +89,10 @@
   "tipDetScore": "Multifactor-verdenkingsscore gecorrigeerd voor ELO van tegenstander. Combineert CPL-ratio, beste-zet-kloof, geen-blunder-bonus en nauwkeurigheidskloof vs verwacht.",
   "langPickerTitle": "Kies je taal",
   "langPickerSub": "Je kunt dit later wijzigen in Instellingen.",
-  "langPickerContinue": "Doorgaan"
+  "langPickerContinue": "Doorgaan",
+  "changelog_1_4_4": [
+    "<b>Borden-tab</b> — derde pagina van de Skins-tab met een galerij vol bordthema's. Klik op een tegel en het bord wordt meteen toegepast. Doorzoekbaar net als de stuksets, met volledige credits voor de artiesten.",
+    "<b>Meer kant-en-klare stuksets</b> — uitgebreide Lichess / Rhosgfx / Sharechess-catalogus, meer keuze zonder zelf te uploaden.",
+    "<b>Auto-play loopt niet meer vast tegen snelle tegenstanders</b> — als de tegenstander pre-moved of binnen ~300 ms antwoordt, stond zijn zet al op het bord toen het script het jouwe afmaakte, en bleef auto-play wachten op een FEN-wijziging die al gebeurd was. Dat wordt nu herkend en auto-play gaat direct door."
+  ]
 }

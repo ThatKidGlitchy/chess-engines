@@ -89,5 +89,10 @@
   "tipDetScore": "Multifaktor-Verdachtswert, angepasst an ELO des Gegners. Kombiniert CPL-Verhältnis, Top-Zug-Differenz, Null-Fehler-Bonus und Genauigkeits-Differenz zum Erwartungswert.",
   "langPickerTitle": "Wähle deine Sprache",
   "langPickerSub": "Du kannst sie später in den Einstellungen ändern.",
-  "langPickerContinue": "Weiter"
+  "langPickerContinue": "Weiter",
+  "changelog_1_4_4": [
+    "<b>Bretter-Tab</b> — dritte Seite im Skins-Tab mit einer Galerie an Brettdesigns. Klick auf eine Kachel und das Brett-Motiv wird sofort angewendet. Suchbar wie die Figurensätze, mit vollen Credits an die Künstler.",
+    "<b>Mehr fertige Figurensätze</b> — der Lichess-/Rhosgfx-/Sharechess-Katalog wurde erweitert, mehr Auswahl ohne eigene Uploads.",
+    "<b>Auto-Play bleibt gegen schnelle Gegner nicht mehr hängen</b> — wenn der Gegner in unter ~300 ms vorzieht oder antwortet, lag sein Zug bereits auf dem Brett, bevor das Skript deinen beendete, und Auto-Play wartete auf eine FEN-Änderung, die längst passiert war. Jetzt wird das erkannt und sofort weitergespielt."
+  ]
 }

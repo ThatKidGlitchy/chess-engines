@@ -89,5 +89,10 @@
   "tipDetScore": "Rakibin ELO'suna göre ayarlanmış çok faktörlü şüphe puanı. CPL oranı, en iyi hamle oranı farkı, sıfır gaf bonusu ve doğruluk farkını birleştirir.",
   "langPickerTitle": "Dilini seç",
   "langPickerSub": "Bunu daha sonra Ayarlar'dan değiştirebilirsin.",
-  "langPickerContinue": "Devam"
+  "langPickerContinue": "Devam",
+  "changelog_1_4_4": [
+    "<b>Tahtalar sekmesi</b> — Skins sekmesinin üçüncü sayfasında tahta temalarının galerisi. Bir karoya tıkla, tahta tasarımı anında uygulanır. Taş setleri gibi aranabilir, sanatçılara tam kredi verilir.",
+    "<b>Daha fazla hazır taş seti</b> — Lichess / Rhosgfx / Sharechess kataloğu genişletildi, kendininkini yüklemeden daha fazla seçenek.",
+    "<b>Otomatik oynatma artık hızlı rakiplere karşı donmuyor</b> — rakip ön-hamle yapar veya ~300 ms altında yanıt verirse, script seninkini bitirdiğinde hamlesi zaten tahtadaydı ve otomatik oynatma çoktan olmuş bir FEN değişikliğini bekleyerek takılı kalıyordu. Artık bu durum algılanıyor ve hemen devam ediyor."
+  ]
 }

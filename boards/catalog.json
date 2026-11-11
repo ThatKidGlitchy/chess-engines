@@ -1,7 +1,7 @@
 [
  {
   "id": "sharechess-asphalt3",
-  "name": "Asphalt3",
+  "name": "Asphalt",
   "author": "ShareChess",
   "license": "GPLv3",
   "source": "https://github.com/sharechess/sharechess",
@@ -2029,7 +2029,7 @@
  },
  {
   "id": "sharechess-wood8",
-  "name": "Wood8",
+  "name": "Wood",
   "author": "ShareChess",
   "license": "GPLv3",
   "source": "https://github.com/sharechess/sharechess",

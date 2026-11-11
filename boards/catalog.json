@@ -624,58 +624,6 @@
   "thumb": "https://cdn.jsdelivr.net/gh/ThatKidGlitchy/chess-engines@main/boards/sharechess/lila.svg"
  },
  {
-  "id": "sharechess-lines_alabaster",
-  "name": "Lines (Alabaster)",
-  "author": "ShareChess",
-  "license": "GPLv3",
-  "source": "https://github.com/sharechess/sharechess",
-  "file": "boards/sharechess/lines_alabaster.json",
-  "colors": {
-   "light": "transparent",
-   "dark": null
-  },
-  "thumb": "https://cdn.jsdelivr.net/gh/ThatKidGlitchy/chess-engines@main/boards/sharechess/lines_alabaster.svg"
- },
- {
-  "id": "sharechess-lines_cardboard",
-  "name": "Lines (Cardboard)",
-  "author": "ShareChess",
-  "license": "GPLv3",
-  "source": "https://github.com/sharechess/sharechess",
-  "file": "boards/sharechess/lines_cardboard.json",
-  "colors": {
-   "light": "transparent",
-   "dark": null
-  },
-  "thumb": "https://cdn.jsdelivr.net/gh/ThatKidGlitchy/chess-engines@main/boards/sharechess/lines_cardboard.svg"
- },
- {
-  "id": "sharechess-lines_paper",
-  "name": "Lines (Paper)",
-  "author": "ShareChess",
-  "license": "GPLv3",
-  "source": "https://github.com/sharechess/sharechess",
-  "file": "boards/sharechess/lines_paper.json",
-  "colors": {
-   "light": "transparent",
-   "dark": null
-  },
-  "thumb": "https://cdn.jsdelivr.net/gh/ThatKidGlitchy/chess-engines@main/boards/sharechess/lines_paper.svg"
- },
- {
-  "id": "sharechess-lines_parchment",
-  "name": "Lines (Parchment)",
-  "author": "ShareChess",
-  "license": "GPLv3",
-  "source": "https://github.com/sharechess/sharechess",
-  "file": "boards/sharechess/lines_parchment.json",
-  "colors": {
-   "light": "transparent",
-   "dark": null
-  },
-  "thumb": "https://cdn.jsdelivr.net/gh/ThatKidGlitchy/chess-engines@main/boards/sharechess/lines_parchment.svg"
- },
- {
   "id": "sharechess-mandy",
   "name": "Mandy",
   "author": "ShareChess",

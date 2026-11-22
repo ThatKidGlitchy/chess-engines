@@ -126,5 +126,8 @@
   "oppLabelClean": "Temiz",
   "aiClear": "Temizle",
   "aiSend": "Gönder",
-  "aiAsk": "Pozisyon hakkında sor…"
+  "aiAsk": "Pozisyon hakkında sor…",
+  "unsupTitle": "Desteklenmeyen site",
+  "unsupBody": "Chess Assist yalnızca {chesscom} ve {chesskid} üzerinde çalışır. Betik burada yüklendi ancak tahta özellikleri bu sayfada hiçbir şey yapmayacak.",
+  "unsupOk": "Anladım"
 }

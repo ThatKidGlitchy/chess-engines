@@ -126,5 +126,8 @@
   "oppLabelClean": "Pulito",
   "aiClear": "Cancella",
   "aiSend": "Invia",
-  "aiAsk": "Chiedi della posizione…"
+  "aiAsk": "Chiedi della posizione…",
+  "unsupTitle": "Sito non supportato",
+  "unsupBody": "Chess Assist funziona solo su {chesscom} e {chesskid}. Lo script è caricato qui, ma le funzioni della scacchiera non faranno nulla su questa pagina.",
+  "unsupOk": "Ho capito"
 }

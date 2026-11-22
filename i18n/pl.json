@@ -126,5 +126,8 @@
   "oppLabelClean": "Czyste",
   "aiClear": "Wyczyść",
   "aiSend": "Wyślij",
-  "aiAsk": "Zapytaj o pozycję…"
+  "aiAsk": "Zapytaj o pozycję…",
+  "unsupTitle": "Nieobsługiwana strona",
+  "unsupBody": "Chess Assist działa tylko na {chesscom} i {chesskid}. Skrypt jest tu załadowany, ale funkcje szachownicy nie zadziałają na tej stronie.",
+  "unsupOk": "Rozumiem"
 }

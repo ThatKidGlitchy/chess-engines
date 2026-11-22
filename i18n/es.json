@@ -126,5 +126,8 @@
   "oppLabelClean": "Limpio",
   "aiClear": "Borrar",
   "aiSend": "Enviar",
-  "aiAsk": "Pregunta sobre la posición…"
+  "aiAsk": "Pregunta sobre la posición…",
+  "unsupTitle": "Sitio no compatible",
+  "unsupBody": "Chess Assist solo funciona en {chesscom} y {chesskid}. El script está cargado aquí, pero las funciones del tablero no harán nada en esta página.",
+  "unsupOk": "Entendido"
 }

@@ -126,5 +126,8 @@
   "oppLabelClean": "نظيف",
   "aiClear": "مسح",
   "aiSend": "إرسال",
-  "aiAsk": "اسأل عن الوضع…"
+  "aiAsk": "اسأل عن الوضع…",
+  "unsupTitle": "موقع غير مدعوم",
+  "unsupBody": "يعمل Chess Assist فقط على {chesscom} و {chesskid}. تم تحميل البرنامج النصي هنا، لكن ميزات اللوحة لن تعمل على هذه الصفحة.",
+  "unsupOk": "حسنًا"
 }

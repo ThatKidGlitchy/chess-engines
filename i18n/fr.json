@@ -126,5 +126,8 @@
   "oppLabelClean": "Clair",
   "aiClear": "Effacer",
   "aiSend": "Envoyer",
-  "aiAsk": "Pose une question sur la position…"
+  "aiAsk": "Pose une question sur la position…",
+  "unsupTitle": "Site non pris en charge",
+  "unsupBody": "Chess Assist ne fonctionne que sur {chesscom} et {chesskid}. Le script est chargé ici, mais les fonctions de l'échiquier n'auront aucun effet sur cette page.",
+  "unsupOk": "Compris"
 }

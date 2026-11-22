@@ -126,5 +126,8 @@
   "oppLabelClean": "Schoon",
   "aiClear": "Wissen",
   "aiSend": "Verzend",
-  "aiAsk": "Vraag over de stelling…"
+  "aiAsk": "Vraag over de stelling…",
+  "unsupTitle": "Niet-ondersteunde site",
+  "unsupBody": "Chess Assist werkt alleen op {chesscom} en {chesskid}. Het script is hier geladen, maar de bordfuncties doen niets op deze pagina.",
+  "unsupOk": "Begrepen"
 }

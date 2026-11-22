@@ -126,5 +126,8 @@
   "oppLabelClean": "정상",
   "aiClear": "지우기",
   "aiSend": "전송",
-  "aiAsk": "현재 수에 대해 물어보세요…"
+  "aiAsk": "현재 수에 대해 물어보세요…",
+  "unsupTitle": "지원되지 않는 사이트",
+  "unsupBody": "Chess Assist는 {chesscom}과 {chesskid}에서만 작동합니다. 스크립트가 여기 로드되었지만 이 페이지에서는 보드 기능이 작동하지 않습니다.",
+  "unsupOk": "확인"
 }

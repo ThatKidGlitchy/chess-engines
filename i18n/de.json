@@ -126,5 +126,8 @@
   "oppLabelClean": "Unbedenklich",
   "aiClear": "Leeren",
   "aiSend": "Senden",
-  "aiAsk": "Frage zur Stellung stellen…"
+  "aiAsk": "Frage zur Stellung stellen…",
+  "unsupTitle": "Nicht unterstützte Seite",
+  "unsupBody": "Chess Assist funktioniert nur auf {chesscom} und {chesskid}. Das Skript ist hier geladen, aber die Brettfunktionen haben auf dieser Seite keine Wirkung.",
+  "unsupOk": "Verstanden"
 }

@@ -126,5 +126,8 @@
   "oppLabelClean": "正常",
   "aiClear": "清除",
   "aiSend": "发送",
-  "aiAsk": "询问当前局面…"
+  "aiAsk": "询问当前局面…",
+  "unsupTitle": "不支持的网站",
+  "unsupBody": "Chess Assist 仅在 {chesscom} 和 {chesskid} 上运行。脚本已在此页面加载，但棋盘功能在此页面上将不起作用。",
+  "unsupOk": "知道了"
 }

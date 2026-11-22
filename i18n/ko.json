@@ -208,5 +208,9 @@
   "coachGreedyCapture_them": "이 잡기가 상대의 킹을 노출시킴 — 방어하던 종정이 사라짐.",
   "coachChancesNote_me": "당신의 승률이 약 {a}%에서 {b}%로",
   "coachChancesNote_them": "상대의 승률이 약 {a}%에서 {b}%로",
-  "coachEmpty": "게임이 진행되면 수 해설이 여기에 표시됩니다."
+  "coachEmpty": "게임이 진행되면 수 해설이 여기에 표시됩니다.",
+  "aiOppCoach": "상대 코치",
+  "tipOppCoach": "켜면 코치가 당신의 수와 동일한 엔진 분석으로 상대의 좋은 수와 실수도 해설합니다.",
+  "accentColor": "강조 색상",
+  "tipTheme": "보조 UI 전체의 강조 색상 — 패널, 버튼, 화살표, 단축키, 평가 바, AI 채팅. 호버 색과 테두리는 자동 생성됩니다. chess.com의 기물이나 보드는 변경하지 않습니다; 그걸은 Skins 탭을 사용하세요."
 }

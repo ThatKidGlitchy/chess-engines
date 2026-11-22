@@ -208,5 +208,9 @@
   "coachGreedyCapture_them": "Bu alış rakibin şahını açıkta bırakır — onu savunan taş gitti.",
   "coachChancesNote_me": "senin şansların yaklaşık %{a}’dan %{b}’ye gidiyor",
   "coachChancesNote_them": "onların şansları yaklaşık %{a}’dan %{b}’ye gidiyor",
-  "coachEmpty": "Hamle yorumları oyun ilerledikçe burada görünecek."
+  "coachEmpty": "Hamle yorumları oyun ilerledikçe burada görünecek.",
+  "aiOppCoach": "Rakip koçu",
+  "tipOppCoach": "Açıkken, koç rakibin hamlelerini de yorumlar — iyi oyunları ve hataları — seninkilerle aynı motor analizini kullanarak.",
+  "accentColor": "Vurgu rengi",
+  "tipTheme": "Tüm yardımcı arayüzü için vurgu rengi — panel, düğmeler, oklar, kısayollar, değerlendirme çubuğu, YZ sohbeti. Hover tonu ve kenar otomatik türetilir. chess.com’un taş ve tahtasını değiştirmez; onun için Skins sekmesini kullan."
 }

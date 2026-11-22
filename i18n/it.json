@@ -208,5 +208,9 @@
   "coachGreedyCapture_them": "Questa cattura espone il loro re — il pezzo che lo difendeva è sparito.",
   "coachChancesNote_me": "le tue probabilità vanno da circa {a}% a {b}%",
   "coachChancesNote_them": "le loro probabilità vanno da circa {a}% a {b}%",
-  "coachEmpty": "I commenti alle mosse appariranno qui durante la partita."
+  "coachEmpty": "I commenti alle mosse appariranno qui durante la partita.",
+  "aiOppCoach": "Coach avversario",
+  "tipOppCoach": "Quando attivo, il coach commenta anche le mosse dell’avversario — le buone giocate e gli errori — con la stessa analisi del motore usata per le tue.",
+  "accentColor": "Colore di accento",
+  "tipTheme": "Un colore di accento per tutta l’interfaccia — pannello, pulsanti, frecce, scorciatoie, barra di valutazione, chat IA. La tonalità hover e il bordo sono ricavati automaticamente. Non cambia pezzi o scacchiera di chess.com; per quelli usa la scheda Skin."
 }

@@ -207,5 +207,6 @@
   "coachGreedyCapture_me": "Bu alış şahını açıkta bırakır — onu savunan taş gitti.",
   "coachGreedyCapture_them": "Bu alış rakibin şahını açıkta bırakır — onu savunan taş gitti.",
   "coachChancesNote_me": "senin şansların yaklaşık %{a}’dan %{b}’ye gidiyor",
-  "coachChancesNote_them": "onların şansları yaklaşık %{a}’dan %{b}’ye gidiyor"
+  "coachChancesNote_them": "onların şansları yaklaşık %{a}’dan %{b}’ye gidiyor",
+  "coachEmpty": "Hamle yorumları oyun ilerledikçe burada görünecek."
 }

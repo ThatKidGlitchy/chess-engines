@@ -207,5 +207,6 @@
   "coachGreedyCapture_me": "Deze slag ontbloot jouw koning — het verdedigende stuk is weg.",
   "coachGreedyCapture_them": "Deze slag ontbloot hun koning — het verdedigende stuk is weg.",
   "coachChancesNote_me": "jouw kansen gaan van ongeveer {a}% naar {b}%",
-  "coachChancesNote_them": "hun kansen gaan van ongeveer {a}% naar {b}%"
+  "coachChancesNote_them": "hun kansen gaan van ongeveer {a}% naar {b}%",
+  "coachEmpty": "Zetcommentaar verschijnt hier naarmate de partij vordert."
 }

@@ -207,5 +207,6 @@
   "coachGreedyCapture_me": "这个吃子暴露了你的王 — 防守它的子已不在。",
   "coachGreedyCapture_them": "这个吃子暴露了对手的王 — 防守它的子已不在。",
   "coachChancesNote_me": "你的胜率约从 {a}% 变为 {b}%",
-  "coachChancesNote_them": "对手的胜率约从 {a}% 变为 {b}%"
+  "coachChancesNote_them": "对手的胜率约从 {a}% 变为 {b}%",
+  "coachEmpty": "走法点评将在对局进行中在此显示。"
 }

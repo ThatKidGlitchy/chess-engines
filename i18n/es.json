@@ -207,5 +207,6 @@
   "coachGreedyCapture_me": "Esta captura expone tu rey — la pieza que lo defendía ya no está.",
   "coachGreedyCapture_them": "Esta captura expone su rey — la pieza que lo defendía ya no está.",
   "coachChancesNote_me": "tus opciones pasan de aprox. {a}% a {b}%",
-  "coachChancesNote_them": "sus opciones pasan de aprox. {a}% a {b}%"
+  "coachChancesNote_them": "sus opciones pasan de aprox. {a}% a {b}%",
+  "coachEmpty": "Los comentarios de las jugadas aparecerán aquí a medida que avance la partida."
 }

@@ -204,5 +204,6 @@
   "coachGreedyCapture_me": "This capture exposes your king — the piece defending it is gone now.",
   "coachGreedyCapture_them": "This capture exposes their king — the piece defending it is gone now.",
   "coachChancesNote_me": "your chances go from about {a}% to {b}%",
-  "coachChancesNote_them": "their chances go from about {a}% to {b}%"
+  "coachChancesNote_them": "their chances go from about {a}% to {b}%",
+  "coachEmpty": "Move commentary will appear here as the game goes on."
 }

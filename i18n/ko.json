@@ -207,5 +207,6 @@
   "coachGreedyCapture_me": "이 잡기가 당신의 킹을 노출시킴 — 방어하던 종정이 사라짐.",
   "coachGreedyCapture_them": "이 잡기가 상대의 킹을 노출시킴 — 방어하던 종정이 사라짐.",
   "coachChancesNote_me": "당신의 승률이 약 {a}%에서 {b}%로",
-  "coachChancesNote_them": "상대의 승률이 약 {a}%에서 {b}%로"
+  "coachChancesNote_them": "상대의 승률이 약 {a}%에서 {b}%로",
+  "coachEmpty": "게임이 진행되면 수 해설이 여기에 표시됩니다."
 }

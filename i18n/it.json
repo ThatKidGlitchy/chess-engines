@@ -207,5 +207,6 @@
   "coachGreedyCapture_me": "Questa cattura espone il tuo re — il pezzo che lo difendeva è sparito.",
   "coachGreedyCapture_them": "Questa cattura espone il loro re — il pezzo che lo difendeva è sparito.",
   "coachChancesNote_me": "le tue probabilità vanno da circa {a}% a {b}%",
-  "coachChancesNote_them": "le loro probabilità vanno da circa {a}% a {b}%"
+  "coachChancesNote_them": "le loro probabilità vanno da circa {a}% a {b}%",
+  "coachEmpty": "I commenti alle mosse appariranno qui durante la partita."
 }

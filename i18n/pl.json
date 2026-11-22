@@ -207,5 +207,6 @@
   "coachGreedyCapture_me": "To bicie odsłania twojego króla — figura broniąca zniknęła.",
   "coachGreedyCapture_them": "To bicie odsłania ich króla — figura broniąca zniknęła.",
   "coachChancesNote_me": "twoje szanse zmieniają się z ok. {a}% do {b}%",
-  "coachChancesNote_them": "ich szanse zmieniają się z ok. {a}% do {b}%"
+  "coachChancesNote_them": "ich szanse zmieniają się z ok. {a}% do {b}%",
+  "coachEmpty": "Komentarze do ruchów pojawią się tutaj w trakcie partii."
 }

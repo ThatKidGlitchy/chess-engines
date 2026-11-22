@@ -207,5 +207,6 @@
   "coachGreedyCapture_me": "Dieser Schlag entblößt deinen König — die verteidigende Figur ist weg.",
   "coachGreedyCapture_them": "Dieser Schlag entblößt ihren König — die verteidigende Figur ist weg.",
   "coachChancesNote_me": "deine Chancen gehen von etwa {a}% auf {b}%",
-  "coachChancesNote_them": "ihre Chancen gehen von etwa {a}% auf {b}%"
+  "coachChancesNote_them": "ihre Chancen gehen von etwa {a}% auf {b}%",
+  "coachEmpty": "Zugkommentare erscheinen hier im Lauf der Partie."
 }

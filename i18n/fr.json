@@ -207,5 +207,6 @@
   "coachGreedyCapture_me": "Cette capture expose votre roi — la pièce qui le défendait a disparu.",
   "coachGreedyCapture_them": "Cette capture expose leur roi — la pièce qui le défendait a disparu.",
   "coachChancesNote_me": "vos chances passent d’environ {a}% à {b}%",
-  "coachChancesNote_them": "leurs chances passent d’environ {a}% à {b}%"
+  "coachChancesNote_them": "leurs chances passent d’environ {a}% à {b}%",
+  "coachEmpty": "Les commentaires des coups apparaîtront ici au fur et à mesure de la partie."
 }

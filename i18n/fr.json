@@ -212,7 +212,7 @@
   "aiOppCoach": "Coach adversaire",
   "tipOppCoach": "Lorsqu’activé, le coach commente aussi les coups de l’adversaire — ses bons coups et ses erreurs — avec la même analyse du moteur utilisée pour les vôtres.",
   "accentColor": "Couleur d’accent",
-  "tipTheme": "Une couleur d’accent pour toute l’interface — panneau, boutons, flèches, raccourcis, barre d’évaluation, chat IA. La teinte au survol et la bordure sont déduites automatiquement. Ne modifie pas les pièces ou l’échiquier de chess.com ; utilise l’onglet Skins pour ça.",
+  "tipTheme": "Une couleur d’accent pour toute l’interface — panneau, boutons, flèches, raccourcis, barre d’évaluation, bulles de l’explicateur. La teinte au survol et la bordure sont déduites automatiquement. Ne modifie pas les pièces ou l’échiquier de chess.com ; utilise l’onglet Skins pour ça.",
   "feedback": "Commentaires",
   "reportFeedback": "Faites-le nous savoir.",
   "tipFeedback": "Ouvre un formulaire Google dans un nouvel onglet où vous pouvez signaler des bugs, demander des fonctionnalités ou envoyer des suggestions. Vos réglages et ce que vous tapez ici restent en local — seul ce que vous soumettez dans le formulaire est partagé.",

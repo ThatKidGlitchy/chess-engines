@@ -212,7 +212,7 @@
   "aiOppCoach": "Tegenstander-coach",
   "tipOppCoach": "Indien aan, becommentarieert de coach ook de zetten van je tegenstander — goede zetten en fouten — met dezelfde engine-analyse als bij jouw zetten.",
   "accentColor": "Accentkleur",
-  "tipTheme": "Een accentkleur voor de hele helper-UI — paneel, knoppen, pijlen, sneltoetsen, evaluatiebalk, AI-chat. Hovertint en rand worden automatisch afgeleid. Verandert niet de stukken of het bord van chess.com; gebruik daarvoor de Skins-tab.",
+  "tipTheme": "Een accentkleur voor de hele helper-UI — paneel, knoppen, pijlen, sneltoetsen, evaluatiebalk, uitlegger-bubbels. Hovertint en rand worden automatisch afgeleid. Verandert niet de stukken of het bord van chess.com; gebruik daarvoor de Skins-tab.",
   "feedback": "Feedback",
   "reportFeedback": "Laat het ons weten.",
   "tipFeedback": "Opent een Google-formulier in een nieuw tabblad waar je bugs kunt melden, functies kunt aanvragen of suggesties kunt indienen. Je instellingen en wat je hier typt blijven lokaal — alleen wat je in het formulier verzendt wordt gedeeld.",

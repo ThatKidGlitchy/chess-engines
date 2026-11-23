@@ -209,7 +209,7 @@
   "aiOppCoach": "Opponent coach",
   "tipOppCoach": "When on, the coach also comments on your opponent’s moves — their good plays and mistakes — with the same engine analysis it uses on yours.",
   "accentColor": "Accent color",
-  "tipTheme": "Any accent color for the whole helper UI — panel, buttons, arrows, keybind pulses, eval bar highlights, AI chat. Hover shade and border tint are derived automatically from your pick. Does not change chess.com’s own pieces or board; use the Skins tab for those.",
+  "tipTheme": "Any accent color for the whole helper UI — panel, buttons, arrows, keybind pulses, eval bar highlights, explainer bubbles. Hover shade and border tint are derived automatically from your pick. Does not change chess.com’s own pieces or board; use the Skins tab for those.",
   "feedback": "Feedback",
   "reportFeedback": "Let us know.",
   "tipFeedback": "Opens a Google Form in a new tab where you can report bugs, request features, or send suggestions. Your settings and anything you type here stay local — only what you submit on the form is shared.",

@@ -212,5 +212,9 @@
   "aiOppCoach": "Entrenador del rival",
   "tipOppCoach": "Cuando está activo, el entrenador también comenta las jugadas del rival — sus buenos movimientos y errores — con el mismo análisis de motor que usa en las tuyas.",
   "accentColor": "Color de acento",
-  "tipTheme": "Cualquier color de acento para toda la interfaz del asistente — panel, botones, flechas, atajos, barra de evaluación, chat de IA. El tono de hover y el borde se derivan automáticamente de tu elección. No cambia las piezas ni el tablero de chess.com; para eso usa la pestaña Piezas."
+  "tipTheme": "Cualquier color de acento para toda la interfaz del asistente — panel, botones, flechas, atajos, barra de evaluación, chat de IA. El tono de hover y el borde se derivan automáticamente de tu elección. No cambia las piezas ni el tablero de chess.com; para eso usa la pestaña Piezas.",
+  "feedback": "Comentarios",
+  "reportFeedback": "Háznoslo saber.",
+  "tipFeedback": "Abre un formulario de Google en una pestaña nueva donde puedes reportar errores, solicitar funciones o enviar sugerencias. Tus ajustes y lo que escribas aquí permanecen en local — solo se comparte lo que envíes en el formulario.",
+  "feedbackPrompt": "¿Encontraste un error o tienes una sugerencia?"
 }

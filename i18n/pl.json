@@ -212,5 +212,9 @@
   "aiOppCoach": "Trener przeciwnika",
   "tipOppCoach": "Gdy włączone, trener komentuje także ruchy przeciwnika — dobre zagrania i błędy — tą samą analizą silnika co twoje.",
   "accentColor": "Kolor akcentu",
-  "tipTheme": "Kolor akcentu dla całego interfejsu pomocnika — panelu, przycisków, strzałek, skrótów, paska oceny, czatu AI. Odcień po najechaniu i obramowanie są wyliczane automatycznie. Nie zmienia bierek ani szachownicy chess.com; do tego użyj zakładki Skórki."
+  "tipTheme": "Kolor akcentu dla całego interfejsu pomocnika — panelu, przycisków, strzałek, skrótów, paska oceny, czatu AI. Odcień po najechaniu i obramowanie są wyliczane automatycznie. Nie zmienia bierek ani szachownicy chess.com; do tego użyj zakładki Skórki.",
+  "feedback": "Opinie",
+  "reportFeedback": "Daj nam znać.",
+  "tipFeedback": "Otwiera formularz Google w nowej karcie, gdzie możesz zgłaszać błędy, prosić o funkcje lub wysyłać sugestie. Twoje ustawienia i to, co tu wpisujesz, pozostają lokalne — udostępniane jest tylko to, co wyślesz w formularzu.",
+  "feedbackPrompt": "Znalazłeś błąd lub masz sugestię?"
 }

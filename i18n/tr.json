@@ -212,5 +212,9 @@
   "aiOppCoach": "Rakip koçu",
   "tipOppCoach": "Açıkken, koç rakibin hamlelerini de yorumlar — iyi oyunları ve hataları — seninkilerle aynı motor analizini kullanarak.",
   "accentColor": "Vurgu rengi",
-  "tipTheme": "Tüm yardımcı arayüzü için vurgu rengi — panel, düğmeler, oklar, kısayollar, değerlendirme çubuğu, YZ sohbeti. Hover tonu ve kenar otomatik türetilir. chess.com’un taş ve tahtasını değiştirmez; onun için Skins sekmesini kullan."
+  "tipTheme": "Tüm yardımcı arayüzü için vurgu rengi — panel, düğmeler, oklar, kısayollar, değerlendirme çubuğu, YZ sohbeti. Hover tonu ve kenar otomatik türetilir. chess.com’un taş ve tahtasını değiştirmez; onun için Skins sekmesini kullan.",
+  "feedback": "Geri bildirim",
+  "reportFeedback": "Bize bildir.",
+  "tipFeedback": "Yeni bir sekmede hata bildirebileceğin, özellik isteyebileceğin veya öneri gönderebileceğin bir Google Formu açar. Ayarların ve burada yazdıkların yerelde kalır — yalnızca formda gönderdiklerin paylaşılır.",
+  "feedbackPrompt": "Bir hata mı buldun ya da önerin mi var?"
 }

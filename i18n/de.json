@@ -212,5 +212,9 @@
   "aiOppCoach": "Gegner-Coach",
   "tipOppCoach": "Wenn aktiv, kommentiert der Coach auch die Züge deines Gegners — gute Züge und Fehler — mit derselben Engine-Analyse wie bei deinen.",
   "accentColor": "Akzentfarbe",
-  "tipTheme": "Eine Akzentfarbe für die gesamte Helfer-UI — Panel, Buttons, Pfeile, Tastenkürzel, Eval-Balken, KI-Chat. Hover-Ton und Rand werden automatisch abgeleitet. Ändert nicht die Figuren oder das Brett von chess.com; dafür den Skins-Tab."
+  "tipTheme": "Eine Akzentfarbe für die gesamte Helfer-UI — Panel, Buttons, Pfeile, Tastenkürzel, Eval-Balken, KI-Chat. Hover-Ton und Rand werden automatisch abgeleitet. Ändert nicht die Figuren oder das Brett von chess.com; dafür den Skins-Tab.",
+  "feedback": "Feedback",
+  "reportFeedback": "Sag es uns.",
+  "tipFeedback": "Öffnet ein Google-Formular in einem neuen Tab, in dem du Fehler melden, Funktionen anfordern oder Vorschläge senden kannst. Deine Einstellungen und alles, was du hier tippst, bleiben lokal — nur was du im Formular absendest, wird geteilt.",
+  "feedbackPrompt": "Fehler gefunden oder einen Vorschlag?"
 }

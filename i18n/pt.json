@@ -216,5 +216,11 @@
   "feedback": "Feedback",
   "reportFeedback": "Nos avise.",
   "tipFeedback": "Abre um formulário Google em uma nova aba onde você pode reportar bugs, pedir recursos ou enviar sugestões. Suas configurações e o que você digita aqui ficam locais — apenas o que você envia no formulário é compartilhado.",
-  "feedbackPrompt": "Encontrou um bug ou tem uma sugestão?"
+  "feedbackPrompt": "Encontrou um bug ou tem uma sugestão?",
+  "changelog_1_5_0": [
+    "<b>Explicador de lances (beta)</b>. Novo narrador na aba Partida que comenta seus lances e os do seu adversário em tempo real, em linguagem simples.",
+    "<b>Seletor de cor de destaque</b> em Ajustes → Aparência. Escolha qualquer cor para o destaque da interface (realces do painel, setas, botões, barra de avaliação). Clique na amostra para a roda de cores nativa, ou digite um hex direto na caixa (o \"#\" fica fixo, você edita os 6 caracteres seguintes).",
+    "<b>Bloqueador de anúncios</b> em Ajustes. Bloqueia os espaços de anúncios do chess.com para que o tabuleiro e o painel tenham mais espaço.",
+    "<b>Seção de feedback</b> em Ajustes. Encontrou algo para reportar ou quer sugerir um recurso? Abra com um clique o link para o formulário de feedback."
+  ]
 }

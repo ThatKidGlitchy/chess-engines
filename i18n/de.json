@@ -216,5 +216,11 @@
   "feedback": "Feedback",
   "reportFeedback": "Sag es uns.",
   "tipFeedback": "Öffnet ein Google-Formular in einem neuen Tab, in dem du Fehler melden, Funktionen anfordern oder Vorschläge senden kannst. Deine Einstellungen und alles, was du hier tippst, bleiben lokal — nur was du im Formular absendest, wird geteilt.",
-  "feedbackPrompt": "Fehler gefunden oder einen Vorschlag?"
+  "feedbackPrompt": "Fehler gefunden oder einen Vorschlag?",
+  "changelog_1_5_0": [
+    "<b>Zug-Erklärer (Beta)</b>. Neuer Erzähler im Gameplay-Tab, der deine Züge und die deines Gegners während des Spiels in einfacher Sprache kommentiert.",
+    "<b>Akzentfarben-Auswahl</b> in Einstellungen → Aussehen. Wähle eine beliebige Farbe für den UI-Akzent (Panel-Highlights, Pfeile, Buttons, Eval-Balken). Klicke die Farbprobe für das native Farbrad oder tippe einen Hex direkt in die Box (das \"#\" bleibt fest, du bearbeitest die 6 Zeichen danach).",
+    "<b>Werbeblocker</b>-Schalter in Einstellungen. Blockt die Anzeigenplätze von chess.com, damit Brett und Panel mehr Platz haben.",
+    "<b>Feedback-Bereich</b> in Einstellungen. Einen Fehler gefunden oder einen Vorschlag? Öffne mit einem Klick den Link zum Feedback-Formular."
+  ]
 }

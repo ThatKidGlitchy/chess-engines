@@ -216,5 +216,11 @@
   "feedback": "Comentarios",
   "reportFeedback": "Háznoslo saber.",
   "tipFeedback": "Abre un formulario de Google en una pestaña nueva donde puedes reportar errores, solicitar funciones o enviar sugerencias. Tus ajustes y lo que escribas aquí permanecen en local — solo se comparte lo que envíes en el formulario.",
-  "feedbackPrompt": "¿Encontraste un error o tienes una sugerencia?"
+  "feedbackPrompt": "¿Encontraste un error o tienes una sugerencia?",
+  "changelog_1_5_0": [
+    "<b>Explicador de jugadas (beta)</b>. Nuevo narrador en la pestaña Partida que comenta tus jugadas y las de tu rival mientras juegas, en lenguaje claro.",
+    "<b>Selector de color de acento</b> en Ajustes → Apariencia. Elige cualquier color para el acento de la interfaz (realces del panel, flechas, botones, barra de evaluación). Haz clic en la muestra para la rueda de color nativa, o escribe un hex directamente en la caja (el \"#\" se queda fijo, solo editas los 6 caracteres).",
+    "<b>Bloqueador de anuncios</b> en Ajustes. Bloquea los espacios publicitarios de chess.com para que el tablero y el panel tengan más espacio.",
+    "<b>Sección de comentarios</b> en Ajustes. ¿Encontraste algo para reportar o quieres sugerir una función? Abre un enlace de un solo clic al formulario de comentarios."
+  ]
 }

@@ -213,5 +213,11 @@
   "feedback": "Feedback",
   "reportFeedback": "Let us know.",
   "tipFeedback": "Opens a Google Form in a new tab where you can report bugs, request features, or send suggestions. Your settings and anything you type here stay local — only what you submit on the form is shared.",
-  "feedbackPrompt": "Found a bug or have a suggestion?"
+  "feedbackPrompt": "Found a bug or have a suggestion?",
+  "changelog_1_5_0": [
+    "<b>Move explainer (beta)</b>. New narrator in the Gameplay tab that comments on your moves and your opponent’s moves as you play, in plain language.",
+    "<b>Accent color picker</b> in Settings → Appearance. Pick any color for the UI accent (panel highlights, arrows, buttons, eval bar). Click the swatch for the native color wheel, or type a hex directly into the box (the \"#\" stays put, you edit the 6 chars after it).",
+    "<b>Ad blocker</b> toggle in Settings. Blocks chess.com’s ad slots so the board and panel have room to breathe.",
+    "<b>Feedback section</b> in Settings. Found something to report or want to suggest a feature? Open a one-click link to the feedback form."
+  ]
 }

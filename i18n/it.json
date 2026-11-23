@@ -222,5 +222,6 @@
     "<b>Selettore colore accento</b> in Impostazioni → Aspetto. Scegli qualsiasi colore per l’accento dell’interfaccia (evidenziazioni del pannello, frecce, pulsanti, barra di valutazione). Clicca sul campione per la ruota colori nativa, oppure digita un hex direttamente nella casella (il \"#\" resta fisso, modifichi solo i 6 caratteri successivi).",
     "<b>Blocco pubblicità</b> in Impostazioni. Blocca gli spazi pubblicitari di chess.com per dare più respiro a scacchiera e pannello.",
     "<b>Sezione feedback</b> in Impostazioni. Hai trovato un bug o vuoi suggerire una funzione? Apri con un clic il link al modulo di feedback."
-  ]
+  ],
+  "explainerBeta": "Lo Spiegatore è in beta — aspettati qualche asperità."
 }

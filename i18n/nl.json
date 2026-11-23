@@ -222,5 +222,6 @@
     "<b>Accentkleur-kiezer</b> in Instellingen → Uiterlijk. Kies elke kleur voor het UI-accent (paneelmarkeringen, pijlen, knoppen, evaluatiebalk). Klik op het staaltje voor het eigen kleurenwiel van de browser, of typ een hex rechtstreeks in het vak (de \"#\" blijft staan, je bewerkt alleen de 6 tekens erna).",
     "<b>Advertentieblokker</b> in Instellingen. Blokkeert de advertentieplekken van chess.com zodat het bord en het paneel meer ruimte hebben.",
     "<b>Feedback-sectie</b> in Instellingen. Een bug gevonden of een suggestie? Open met één klik de link naar het feedbackformulier."
-  ]
+  ],
+  "explainerBeta": "Uitlegger is in bèta — verwacht wat ruwe randjes."
 }

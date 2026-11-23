@@ -222,5 +222,6 @@
     "<b>Sélecteur de couleur d’accent</b> dans Réglages → Apparence. Choisis n’importe quelle couleur d’accent pour l’interface (reflets du panneau, flèches, boutons, barre d’évaluation). Clique sur la pastille pour la roue chromatique native, ou tape un hex directement dans la case (le \"#\" reste en place, tu modifies les 6 caractères suivants).",
     "<b>Bloqueur de pubs</b> dans Réglages. Bloque les emplacements publicitaires de chess.com pour que l’échiquier et le panneau respirent.",
     "<b>Section Feedback</b> dans Réglages. Un bug à signaler ou une suggestion ? Ouvre en un clic le formulaire de feedback."
-  ]
+  ],
+  "explainerBeta": "L’Explicateur est en bêta — attends-toi à quelques imperfections."
 }

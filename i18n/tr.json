@@ -222,5 +222,6 @@
     "<b>Vurgu rengi seçici</b> Ayarlar → Görünüm bölümünde. Arayüz vurgusu için istediğin rengi seç (panel vurguları, oklar, düğmeler, değerlendirme çubuğu). Yerel renk tekerleği için örneğe tıkla ya da doğrudan kutuya hex yaz (\"#\" sabit kalır, sadece ardındaki 6 karakteri düzenlersin).",
     "<b>Reklam engelleyici</b> Ayarlar'da. chess.com’un reklam alanlarını engeller, böylece tahta ve panel için daha fazla yer kalır.",
     "<b>Geri bildirim bölümü</b> Ayarlar'da. Bildirmek istediğin bir sorun ya da önerin mi var? Tek tıkla geri bildirim formu bağlantısını aç."
-  ]
+  ],
+  "explainerBeta": "Açıklayıcı beta aşamasında — bazı pürüzler olabilir."
 }

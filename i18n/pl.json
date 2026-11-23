@@ -222,5 +222,6 @@
     "<b>Wybór koloru akcentu</b> w Ustawieniach → Wygląd. Wybierz dowolny kolor akcentu interfejsu (podświetlenia panelu, strzałki, przyciski, pasek oceny). Kliknij próbkę, aby otworzyć natywne koło kolorów, lub wpisz hex bezpośrednio w polu („#” pozostaje stałe, edytujesz tylko 6 znaków po nim).",
     "<b>Blokada reklam</b> w Ustawieniach. Blokuje miejsca reklamowe chess.com, żeby szachownica i panel miały więcej miejsca.",
     "<b>Sekcja feedback</b> w Ustawieniach. Znalazłeś błąd lub chcesz zaproponować funkcję? Otwórz link do formularza jednym kliknięciem."
-  ]
+  ],
+  "explainerBeta": "Wyjaśniacz jest w becie — spodziewaj się drobnych niedoróbek."
 }

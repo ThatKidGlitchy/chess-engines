@@ -222,8 +222,8 @@
       "<b>Feedback section</b> in Settings. Found something to report or want to suggest a feature? Open a one-click link to the feedback form."
     ],
     [
-      "<b>Tampermonkey support</b>. A dedicated userscript build is now in the repo. Install Tampermonkey, click the raw link once, and the script loads automatically on every chess.com and chesskid.com page. No more re-pasting the script after every reload.",
-      "<b>Whole-site Themes page</b> in the Skins tab. New 4th page with full site themes (AMOLED, Night Owl, Frutiger Aero, Pink, and more). Click a tile to apply the theme across chess.com; hit Clear theme to go back to default."
+      "<b>ChessKid.com compatibility</b>. Chess Assist now runs on chesskid.com too — same panel, same features, same arrows and eval bar on the ChessKid board.",
+      "<b>Whole-site Themes page</b> in the Skins tab. New 4th page with full site themes (AMOLED, Night Owl, Frutiger Aero, Pink, and more). Click a tile to apply the theme across the site; hit Clear theme to go back to default."
     ]
   ],
   "explainerBeta": "Explainer is in beta. It might be a bit vague."

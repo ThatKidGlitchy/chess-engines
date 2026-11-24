@@ -225,8 +225,8 @@
       "<b>피드백 섹션</b> 설정에서. 버그를 발견했거나 기능 제안이 있나요? 피드백 폼 링크를 원 클릭으로 열 수 있습니다."
     ],
     [
-      "<b>Tampermonkey 지원</b>. 리포에 전용 유저스크립트 빌드가 새로 추가되었습니다. Tampermonkey를 설치하고 raw 링크를 한 번 클릭하면 chess.com과 chesskid.com 모든 페이지에서 자동으로 스크립트가 로드됩니다. 더 이상 새로고침 마다 스크립트를 붙여넣지 않아도 됩니다.",
-      "<b>사이트 전체 테마 페이지</b>를 Skins 탭에 추가. 새로운 4번째 페이지에 다양한 전체 테마(AMOLED, Night Owl, Frutiger Aero, Pink 등)를 제공합니다. 타일을 클릭하면 chess.com 전체에 테마가 적용되고, 테마 지우기를 누르면 기본 상태로 돌아갑니다."
+      "<b>ChessKid.com 호환</b>. 이제 Chess Assist는 chesskid.com에서도 동일한 패널, 동일한 기능, ChessKid 보드에서 동일한 화살표와 평가 바를 제공합니다.",
+      "<b>사이트 전체 테마 페이지</b>가 Skins 탭에 추가되었습니다. 전체 사이트 테마(AMOLED, Night Owl, Frutiger Aero, Pink 등)가 포함된 새로운 4번째 페이지. 타일을 클릭하여 사이트 전체에 테마를 적용하고, Clear theme를 눌러 기본값으로 돌아갑니다."
     ]
   ],
   "explainerBeta": "해설은 베타입니다. 다소 모호할 수 있습니다."

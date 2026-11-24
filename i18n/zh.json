@@ -225,8 +225,8 @@
       "<b>反馈区</b>在设置里。发现 bug 或想提建议？一键打开反馈表单。"
     ],
     [
-      "<b>Tampermonkey 支持</b>。仓库现在有专用的 userscript 构建。安装 Tampermonkey，点一次 raw 链接，脚本就会在每个 chess.com 和 chesskid.com 页面自动加载。不再需要每次刷新后都粘贴脚本。",
-      "<b>全站主题页</b> 在 Skins 标签中。新的第 4 页，包含完整的站点主题（AMOLED、Night Owl、Frutiger Aero、Pink 等多种）。点击缩略图即可在整个 chess.com 应用该主题；点击清除主题回到默认。"
+      "<b>兼容 ChessKid.com</b>。Chess Assist 现在也能在 chesskid.com 运行——同样的面板、同样的功能、同样的箭头和评估栏，都能在 ChessKid 棋盘上使用。",
+      "<b>全站主题页面</b>位于 Skins 选项卡。全新的第 4 页包含完整主题（AMOLED、Night Owl、Frutiger Aero、Pink 等）。点击缩略图即可在全站应用该主题；点击清除主题即可恢复默认。"
     ]
   ],
   "explainerBeta": "讲解功能处于测试阶段。描述可能会有点模糊。"

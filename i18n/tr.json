@@ -225,8 +225,8 @@
       "<b>Geri bildirim bölümü</b> Ayarlar'da. Bildirmek istediğin bir sorun ya da önerin mi var? Tek tıkla geri bildirim formu bağlantısını aç."
     ],
     [
-      "<b>Tampermonkey desteği</b>. Repoda artık özel bir userscript derlemesi var. Tampermonkey’i yükle, raw bağlantıya bir kez tıkla ve script her chess.com ve chesskid.com sayfasında otomatik yüklenir. Her yenilemeden sonra scripti yapıştırmak zorunda değilsin.",
-      "<b>Tüm site Temaları sayfası</b> Skins sekmesinde. Yeni 4. sayfa, tam site temalarıyla (AMOLED, Night Owl, Frutiger Aero, Pink ve daha fazlası). Tüm chess.com’a uygulamak için bir karoya tıkla; varsayılana dönmek için Temayı kaldır’a bas."
+      "<b>ChessKid.com uyumluluğu</b>. Chess Assist artık chesskid.com’da da çalışıyor — aynı panel, aynı özellikler, ChessKid tahtasında aynı oklar ve değerlendirme çubuğu.",
+      "<b>Tüm site Temaları sayfası</b> Skins sekmesinde. Tam site temalarıyla yeni 4. sayfa (AMOLED, Night Owl, Frutiger Aero, Pembe ve daha fazlası). Temayı tüm sitede uygulamak için bir karoya tıklayın; varsayılana dönmek için Temayı temizle’ye tıklayın."
     ]
   ],
   "explainerBeta": "Açıklayıcı beta aşamasında. Biraz belirsiz olabilir."

@@ -225,8 +225,8 @@
       "<b>Sección de comentarios</b> en Ajustes. ¿Encontraste algo para reportar o quieres sugerir una función? Abre un enlace de un solo clic al formulario de comentarios."
     ],
     [
-      "<b>Soporte para Tampermonkey</b>. Ahora hay una build dedicada de userscript en el repositorio. Instala Tampermonkey, haz clic una vez en el enlace raw y el script se carga automáticamente en cada página de chess.com y chesskid.com. Ya no hace falta pegar el script tras cada recarga.",
-      "<b>Página de Temas de todo el sitio</b> en la pestaña Skins. Nueva 4ª página con temas completos (AMOLED, Night Owl, Frutiger Aero, Pink y más). Haz clic en una miniatura para aplicarlo en todo chess.com; pulsa Quitar tema para volver al original."
+      "<b>Compatibilidad con ChessKid.com</b>. Chess Assist ahora funciona también en chesskid.com: mismo panel, mismas funciones, mismas flechas y barra de evaluación en el tablero de ChessKid.",
+      "<b>Página de Temas de sitio completo</b> en la pestaña Skins. Nueva 4.ª página con temas completos (AMOLED, Night Owl, Frutiger Aero, Rosa y más). Haz clic en una miniatura para aplicar el tema en todo el sitio; pulsa Quitar tema para volver al predeterminado."
     ]
   ],
   "explainerBeta": "El Explicador está en beta. Puede ser un poco vago."

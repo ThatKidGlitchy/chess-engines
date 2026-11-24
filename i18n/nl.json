@@ -225,8 +225,8 @@
       "<b>Feedback-sectie</b> in Instellingen. Een bug gevonden of een suggestie? Open met één klik de link naar het feedbackformulier."
     ],
     [
-      "<b>Tampermonkey-ondersteuning</b>. Er staat nu een speciale userscript-build in de repo. Installeer Tampermonkey, klik één keer op de raw-link en het script laadt automatisch op elke chess.com- en chesskid.com-pagina. Geen handmatig plakken meer na elke herlaad.",
-      "<b>Sitebrede Thema’s-pagina</b> in het Skins-tabblad. Nieuwe 4e pagina met volledige sitethema’s (AMOLED, Night Owl, Frutiger Aero, Pink en meer). Klik op een tegel om het thema op heel chess.com toe te passen; klik Thema wissen om terug te gaan naar standaard."
+      "<b>ChessKid.com-compatibiliteit</b>. Chess Assist draait nu ook op chesskid.com — zelfde paneel, zelfde functies, zelfde pijlen en evaluatiebalk op het ChessKid-bord.",
+      "<b>Site-brede thema’s-pagina</b> in het tabblad Skins. Nieuwe 4e pagina met volledige thema’s (AMOLED, Night Owl, Frutiger Aero, Roze en meer). Klik op een tegel om het thema op de hele site toe te passen; klik op Thema wissen om terug te keren naar de standaard."
     ]
   ],
   "explainerBeta": "Uitlegger is in bèta. Hij kan een beetje vaag zijn."

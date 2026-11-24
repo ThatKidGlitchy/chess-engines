@@ -225,8 +225,8 @@
       "<b>Sekcja feedback</b> w Ustawieniach. Znalazłeś błąd lub chcesz zaproponować funkcję? Otwórz link do formularza jednym kliknięciem."
     ],
     [
-      "<b>Wsparcie dla Tampermonkey</b>. W repozytorium jest teraz dedykowany build userscript. Zainstaluj Tampermonkey, kliknij raz link raw, a skrypt ładuje się automatycznie na każdej stronie chess.com i chesskid.com. Koniec wklejania skryptu po każdym przeładowaniu.",
-      "<b>Strona Motywy całej witryny</b> w zakładce Skórki. Nowa 4. strona z pełnymi motywami (AMOLED, Night Owl, Frutiger Aero, Pink i inne). Kliknij kafelek, aby zastosować motyw w całym chess.com; kliknij Wyczyść motyw, aby wrócić do domyślnego."
+      "<b>Kompatybilność z ChessKid.com</b>. Chess Assist działa teraz także na chesskid.com — ten sam panel, te same funkcje, te same strzałki i pasek oceny na szachownicy ChessKid.",
+      "<b>Strona motywów całej witryny</b> w zakładce Skins. Nowa 4. strona z pełnymi motywami (AMOLED, Night Owl, Frutiger Aero, Różowy i inne). Kliknij kafelek, aby zastosować motyw w całej witrynie; kliknij Wyczyść motyw, aby wrócić do domyślnego."
     ]
   ],
   "explainerBeta": "Wyjaśniacz jest w becie. Może być trochę niejasny."

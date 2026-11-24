@@ -220,12 +220,12 @@
   "changelog_1_5_0": [
     [
       "<b>Explicateur de coups (bêta)</b>. Nouveau narrateur dans l’onglet Jeu qui commente tes coups et ceux de ton adversaire en temps réel, en langage clair.",
-      "<b>Sélecteur de couleur d’accent</b> dans Réglages → Apparence. Choisis n’importe quelle couleur d’accent pour l’interface (reflets du panneau, flèches, boutons, barre d’évaluation). Clique sur la pastille pour la roue chromatique native, ou tape un hex directement dans la case (le \"#\" reste en place, tu modifies les 6 caractères suivants).",
+      "<b>Sélecteur de couleur d’accent</b> dans Réglages → Apparence. Choisis n’importe quelle couleur d’accent pour l’interface (reflets du panneau, flèches, boutons, barre d’évaluation).",
       "<b>Bloqueur de pubs</b> dans Réglages. Bloque les emplacements publicitaires de chess.com pour que l’échiquier et le panneau respirent.",
       "<b>Section Feedback</b> dans Réglages. Un bug à signaler ou une suggestion ? Ouvre en un clic le formulaire de feedback."
     ],
     [
-      "<b>Compatibilité ChessKid.com</b>. Chess Assist fonctionne désormais aussi sur chesskid.com — même panneau, mêmes fonctionnalités, mêmes flèches et barre d’évaluation sur l’échiquier ChessKid.",
+      "<b>Compatibilité ChessKid.com</b>. Chess Assist fonctionne désormais aussi sur <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a> — même panneau, mêmes fonctionnalités, mêmes flèches et barre d’évaluation sur l’échiquier ChessKid.",
       "<b>Page Thèmes du site complet</b> dans l’onglet Skins. Nouvelle 4e page avec thèmes complets (AMOLED, Night Owl, Frutiger Aero, Rose et plus). Cliquez sur une vignette pour appliquer le thème sur tout le site ; cliquez sur Effacer le thème pour revenir au défaut."
     ]
   ],

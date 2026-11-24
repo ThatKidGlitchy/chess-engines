@@ -220,12 +220,12 @@
   "changelog_1_5_0": [
     [
       "<b>Spiegatore di mosse (beta)</b>. Nuovo narratore nella scheda Partita che commenta le tue mosse e quelle dell’avversario mentre giochi, in linguaggio semplice.",
-      "<b>Selettore colore accento</b> in Impostazioni → Aspetto. Scegli qualsiasi colore per l’accento dell’interfaccia (evidenziazioni del pannello, frecce, pulsanti, barra di valutazione). Clicca sul campione per la ruota colori nativa, oppure digita un hex direttamente nella casella (il \"#\" resta fisso, modifichi solo i 6 caratteri successivi).",
+      "<b>Selettore colore accento</b> in Impostazioni → Aspetto. Scegli qualsiasi colore per l’accento dell’interfaccia (evidenziazioni del pannello, frecce, pulsanti, barra di valutazione).",
       "<b>Blocco pubblicità</b> in Impostazioni. Blocca gli spazi pubblicitari di chess.com per dare più respiro a scacchiera e pannello.",
       "<b>Sezione feedback</b> in Impostazioni. Hai trovato un bug o vuoi suggerire una funzione? Apri con un clic il link al modulo di feedback."
     ],
     [
-      "<b>Compatibilità ChessKid.com</b>. Chess Assist ora funziona anche su chesskid.com — stesso pannello, stesse funzioni, stesse frecce e barra di valutazione sulla scacchiera ChessKid.",
+      "<b>Compatibilità ChessKid.com</b>. Chess Assist ora funziona anche su <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a> — stesso pannello, stesse funzioni, stesse frecce e barra di valutazione sulla scacchiera ChessKid.",
       "<b>Pagina Temi dell’intero sito</b> nella scheda Skins. Nuova 4ª pagina con temi completi (AMOLED, Night Owl, Frutiger Aero, Rosa e altri). Clicca su una miniatura per applicare il tema a tutto il sito; clicca su Cancella tema per tornare al predefinito."
     ]
   ],

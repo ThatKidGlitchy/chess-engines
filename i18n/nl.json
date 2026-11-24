@@ -220,12 +220,12 @@
   "changelog_1_5_0": [
     [
       "<b>Zet-uitlegger (bèta)</b>. Nieuwe verteller in het Gameplay-tabblad die je zetten en die van je tegenstander tijdens het spelen in eenvoudige taal becommentarieert.",
-      "<b>Accentkleur-kiezer</b> in Instellingen → Uiterlijk. Kies elke kleur voor het UI-accent (paneelmarkeringen, pijlen, knoppen, evaluatiebalk). Klik op het staaltje voor het eigen kleurenwiel van de browser, of typ een hex rechtstreeks in het vak (de \"#\" blijft staan, je bewerkt alleen de 6 tekens erna).",
+      "<b>Accentkleur-kiezer</b> in Instellingen → Uiterlijk. Kies elke kleur voor het UI-accent (paneelmarkeringen, pijlen, knoppen, evaluatiebalk).",
       "<b>Advertentieblokker</b> in Instellingen. Blokkeert de advertentieplekken van chess.com zodat het bord en het paneel meer ruimte hebben.",
       "<b>Feedback-sectie</b> in Instellingen. Een bug gevonden of een suggestie? Open met één klik de link naar het feedbackformulier."
     ],
     [
-      "<b>ChessKid.com-compatibiliteit</b>. Chess Assist draait nu ook op chesskid.com — zelfde paneel, zelfde functies, zelfde pijlen en evaluatiebalk op het ChessKid-bord.",
+      "<b>ChessKid.com-compatibiliteit</b>. Chess Assist draait nu ook op <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a> — zelfde paneel, zelfde functies, zelfde pijlen en evaluatiebalk op het ChessKid-bord.",
       "<b>Site-brede thema’s-pagina</b> in het tabblad Skins. Nieuwe 4e pagina met volledige thema’s (AMOLED, Night Owl, Frutiger Aero, Roze en meer). Klik op een tegel om het thema op de hele site toe te passen; klik op Thema wissen om terug te keren naar de standaard."
     ]
   ],

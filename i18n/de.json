@@ -220,12 +220,12 @@
   "changelog_1_5_0": [
     [
       "<b>Zug-Erklärer (Beta)</b>. Neuer Erzähler im Gameplay-Tab, der deine Züge und die deines Gegners während des Spiels in einfacher Sprache kommentiert.",
-      "<b>Akzentfarben-Auswahl</b> in Einstellungen → Aussehen. Wähle eine beliebige Farbe für den UI-Akzent (Panel-Highlights, Pfeile, Buttons, Eval-Balken). Klicke die Farbprobe für das native Farbrad oder tippe einen Hex direkt in die Box (das \"#\" bleibt fest, du bearbeitest die 6 Zeichen danach).",
+      "<b>Akzentfarben-Auswahl</b> in Einstellungen → Aussehen. Wähle eine beliebige Farbe für den UI-Akzent (Panel-Highlights, Pfeile, Buttons, Eval-Balken).",
       "<b>Werbeblocker</b>-Schalter in Einstellungen. Blockt die Anzeigenplätze von chess.com, damit Brett und Panel mehr Platz haben.",
       "<b>Feedback-Bereich</b> in Einstellungen. Einen Fehler gefunden oder einen Vorschlag? Öffne mit einem Klick den Link zum Feedback-Formular."
     ],
     [
-      "<b>ChessKid.com-Kompatibilität</b>. Chess Assist läuft jetzt auch auf chesskid.com — gleiches Panel, gleiche Funktionen, gleiche Pfeile und Bewertungsleiste auf dem ChessKid-Brett.",
+      "<b>ChessKid.com-Kompatibilität</b>. Chess Assist läuft jetzt auch auf <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a> — gleiches Panel, gleiche Funktionen, gleiche Pfeile und Bewertungsleiste auf dem ChessKid-Brett.",
       "<b>Seiten-Themen-Seite</b> im Skins-Tab. Neue 4. Seite mit Komplett-Themen (AMOLED, Night Owl, Frutiger Aero, Pink und mehr). Klicke auf eine Kachel, um das Thema seitenübergreifend anzuwenden; mit \"Theme löschen\" zurück zum Standard."
     ]
   ],

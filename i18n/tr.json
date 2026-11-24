@@ -220,12 +220,12 @@
   "changelog_1_5_0": [
     [
       "<b>Hamle açıklayıcı (beta)</b>. Oyun sekmesinde senin ve rakibinin hamlelerini oynanırken sade bir dille yorumlayan yeni anlatıcı.",
-      "<b>Vurgu rengi seçici</b> Ayarlar → Görünüm bölümünde. Arayüz vurgusu için istediğin rengi seç (panel vurguları, oklar, düğmeler, değerlendirme çubuğu). Yerel renk tekerleği için örneğe tıkla ya da doğrudan kutuya hex yaz (\"#\" sabit kalır, sadece ardındaki 6 karakteri düzenlersin).",
+      "<b>Vurgu rengi seçici</b> Ayarlar → Görünüm bölümünde. Arayüz vurgusu için istediğin rengi seç (panel vurguları, oklar, düğmeler, değerlendirme çubuğu).",
       "<b>Reklam engelleyici</b> Ayarlar'da. chess.com’un reklam alanlarını engeller, böylece tahta ve panel için daha fazla yer kalır.",
       "<b>Geri bildirim bölümü</b> Ayarlar'da. Bildirmek istediğin bir sorun ya da önerin mi var? Tek tıkla geri bildirim formu bağlantısını aç."
     ],
     [
-      "<b>ChessKid.com uyumluluğu</b>. Chess Assist artık chesskid.com’da da çalışıyor — aynı panel, aynı özellikler, ChessKid tahtasında aynı oklar ve değerlendirme çubuğu.",
+      "<b>ChessKid.com uyumluluğu</b>. Chess Assist artık <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a>’da da çalışıyor — aynı panel, aynı özellikler, ChessKid tahtasında aynı oklar ve değerlendirme çubuğu.",
       "<b>Tüm site Temaları sayfası</b> Skins sekmesinde. Tam site temalarıyla yeni 4. sayfa (AMOLED, Night Owl, Frutiger Aero, Pembe ve daha fazlası). Temayı tüm sitede uygulamak için bir karoya tıklayın; varsayılana dönmek için Temayı temizle’ye tıklayın."
     ]
   ],

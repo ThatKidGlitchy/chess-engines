@@ -220,12 +220,12 @@
   "changelog_1_5_0": [
     [
       "<b>Explicador de jugadas (beta)</b>. Nuevo narrador en la pestaña Partida que comenta tus jugadas y las de tu rival mientras juegas, en lenguaje claro.",
-      "<b>Selector de color de acento</b> en Ajustes → Apariencia. Elige cualquier color para el acento de la interfaz (realces del panel, flechas, botones, barra de evaluación). Haz clic en la muestra para la rueda de color nativa, o escribe un hex directamente en la caja (el \"#\" se queda fijo, solo editas los 6 caracteres).",
+      "<b>Selector de color de acento</b> en Ajustes → Apariencia. Elige cualquier color para el acento de la interfaz (realces del panel, flechas, botones, barra de evaluación).",
       "<b>Bloqueador de anuncios</b> en Ajustes. Bloquea los espacios publicitarios de chess.com para que el tablero y el panel tengan más espacio.",
       "<b>Sección de comentarios</b> en Ajustes. ¿Encontraste algo para reportar o quieres sugerir una función? Abre un enlace de un solo clic al formulario de comentarios."
     ],
     [
-      "<b>Compatibilidad con ChessKid.com</b>. Chess Assist ahora funciona también en chesskid.com: mismo panel, mismas funciones, mismas flechas y barra de evaluación en el tablero de ChessKid.",
+      "<b>Compatibilidad con ChessKid.com</b>. Chess Assist ahora funciona también en <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a>: mismo panel, mismas funciones, mismas flechas y barra de evaluación en el tablero de ChessKid.",
       "<b>Página de Temas de sitio completo</b> en la pestaña Skins. Nueva 4.ª página con temas completos (AMOLED, Night Owl, Frutiger Aero, Rosa y más). Haz clic en una miniatura para aplicar el tema en todo el sitio; pulsa Quitar tema para volver al predeterminado."
     ]
   ],

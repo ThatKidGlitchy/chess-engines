@@ -220,12 +220,12 @@
   "changelog_1_5_0": [
     [
       "<b>Wyjaśniacz ruchów (beta)</b>. Nowy narrator w zakładce Rozgrywka, który komentuje twoje ruchy i ruchy przeciwnika na bieżąco, prostym językiem.",
-      "<b>Wybór koloru akcentu</b> w Ustawieniach → Wygląd. Wybierz dowolny kolor akcentu interfejsu (podświetlenia panelu, strzałki, przyciski, pasek oceny). Kliknij próbkę, aby otworzyć natywne koło kolorów, lub wpisz hex bezpośrednio w polu („#” pozostaje stałe, edytujesz tylko 6 znaków po nim).",
+      "<b>Wybór koloru akcentu</b> w Ustawieniach → Wygląd. Wybierz dowolny kolor akcentu interfejsu (podświetlenia panelu, strzałki, przyciski, pasek oceny).",
       "<b>Blokada reklam</b> w Ustawieniach. Blokuje miejsca reklamowe chess.com, żeby szachownica i panel miały więcej miejsca.",
       "<b>Sekcja feedback</b> w Ustawieniach. Znalazłeś błąd lub chcesz zaproponować funkcję? Otwórz link do formularza jednym kliknięciem."
     ],
     [
-      "<b>Kompatybilność z ChessKid.com</b>. Chess Assist działa teraz także na chesskid.com — ten sam panel, te same funkcje, te same strzałki i pasek oceny na szachownicy ChessKid.",
+      "<b>Kompatybilność z ChessKid.com</b>. Chess Assist działa teraz także na <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a> — ten sam panel, te same funkcje, te same strzałki i pasek oceny na szachownicy ChessKid.",
       "<b>Strona motywów całej witryny</b> w zakładce Skins. Nowa 4. strona z pełnymi motywami (AMOLED, Night Owl, Frutiger Aero, Różowy i inne). Kliknij kafelek, aby zastosować motyw w całej witrynie; kliknij Wyczyść motyw, aby wrócić do domyślnego."
     ]
   ],

@@ -217,12 +217,12 @@
   "changelog_1_5_0": [
     [
       "<b>Move explainer (beta)</b>. New narrator in the Gameplay tab that comments on your moves and your opponent’s moves as you play, in plain language.",
-      "<b>Accent color picker</b> in Settings → Appearance. Pick any color for the UI accent (panel highlights, arrows, buttons, eval bar). Click the swatch for the native color wheel, or type a hex directly into the box (the \"#\" stays put, you edit the 6 chars after it).",
+      "<b>Accent color picker</b> in Settings → Appearance. Pick any color for the UI accent (panel highlights, arrows, buttons, eval bar).",
       "<b>Ad blocker</b> toggle in Settings. Blocks chess.com’s ad slots so the board and panel have room to breathe.",
       "<b>Feedback section</b> in Settings. Found something to report or want to suggest a feature? Open a one-click link to the feedback form."
     ],
     [
-      "<b>ChessKid.com compatibility</b>. Chess Assist now runs on chesskid.com too — same panel, same features, same arrows and eval bar on the ChessKid board.",
+      "<b>ChessKid.com compatibility</b>. Chess Assist now runs on <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a> too — same panel, same features, same arrows and eval bar on the ChessKid board.",
       "<b>Whole-site Themes page</b> in the Skins tab. New 4th page with full site themes (AMOLED, Night Owl, Frutiger Aero, Pink, and more). Click a tile to apply the theme across the site; hit Clear theme to go back to default."
     ]
   ],

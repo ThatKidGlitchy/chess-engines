@@ -220,12 +220,12 @@
   "changelog_1_5_0": [
     [
       "<b>Explicador de lances (beta)</b>. Novo narrador na aba Partida que comenta seus lances e os do seu adversário em tempo real, em linguagem simples.",
-      "<b>Seletor de cor de destaque</b> em Ajustes → Aparência. Escolha qualquer cor para o destaque da interface (realces do painel, setas, botões, barra de avaliação). Clique na amostra para a roda de cores nativa, ou digite um hex direto na caixa (o \"#\" fica fixo, você edita os 6 caracteres seguintes).",
+      "<b>Seletor de cor de destaque</b> em Ajustes → Aparência. Escolha qualquer cor para o destaque da interface (realces do painel, setas, botões, barra de avaliação).",
       "<b>Bloqueador de anúncios</b> em Ajustes. Bloqueia os espaços de anúncios do chess.com para que o tabuleiro e o painel tenham mais espaço.",
       "<b>Seção de feedback</b> em Ajustes. Encontrou algo para reportar ou quer sugerir um recurso? Abra com um clique o link para o formulário de feedback."
     ],
     [
-      "<b>Compatibilidade com ChessKid.com</b>. O Chess Assist agora também funciona em chesskid.com — mesmo painel, mesmas funções, mesmas setas e barra de avaliação no tabuleiro do ChessKid.",
+      "<b>Compatibilidade com ChessKid.com</b>. O Chess Assist agora também funciona em <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a> — mesmo painel, mesmas funções, mesmas setas e barra de avaliação no tabuleiro do ChessKid.",
       "<b>Página de Temas do site inteiro</b> na aba Skins. Nova 4ª página com temas completos (AMOLED, Night Owl, Frutiger Aero, Rosa e mais). Clique em uma miniatura para aplicar o tema em todo o site; clique em Limpar tema para voltar ao padrão."
     ]
   ],

@@ -220,12 +220,12 @@
   "changelog_1_5_0": [
     [
       "<b>行棋解说（测试版）</b>。对局标签内新增的解说器，实时用通俗语言评点你和对手的每手行棋。",
-      "<b>强调色选择器</b>在设置 → 外观。为界面强调色（面板高亮、箭头、按钮、评分条）选择任意颜色。点色样打开系统色环，或直接在框里输入 hex（“#” 固定不动，你只编辑后面 6 位）。",
+      "<b>强调色选择器</b>在设置 → 外观。为界面强调色（面板高亮、箭头、按钮、评分条）选择任意颜色。",
       "<b>广告屏蔽器</b>在设置里。屏蔽 chess.com 的广告位，让棋盘和面板有更多空间。",
       "<b>反馈区</b>在设置里。发现 bug 或想提建议？一键打开反馈表单。"
     ],
     [
-      "<b>兼容 ChessKid.com</b>。Chess Assist 现在也能在 chesskid.com 运行——同样的面板、同样的功能、同样的箭头和评估栏，都能在 ChessKid 棋盘上使用。",
+      "<b>兼容 ChessKid.com</b>。Chess Assist 现在也能在 <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a> 运行——同样的面板、同样的功能、同样的箭头和评估栏，都能在 ChessKid 棋盘上使用。",
       "<b>全站主题页面</b>位于 Skins 选项卡。全新的第 4 页包含完整主题（AMOLED、Night Owl、Frutiger Aero、Pink 等）。点击缩略图即可在全站应用该主题；点击清除主题即可恢复默认。"
     ]
   ],

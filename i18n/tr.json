@@ -218,10 +218,16 @@
   "tipFeedback": "Yeni bir sekmede hata bildirebileceğin, özellik isteyebileceğin veya öneri gönderebileceğin bir Google Formu açar. Ayarların ve burada yazdıkların yerelde kalır — yalnızca formda gönderdiklerin paylaşılır.",
   "feedbackPrompt": "Bir hata mı buldun ya da önerin mi var?",
   "changelog_1_5_0": [
-    "<b>Hamle açıklayıcı (beta)</b>. Oyun sekmesinde senin ve rakibinin hamlelerini oynanırken sade bir dille yorumlayan yeni anlatıcı.",
-    "<b>Vurgu rengi seçici</b> Ayarlar → Görünüm bölümünde. Arayüz vurgusu için istediğin rengi seç (panel vurguları, oklar, düğmeler, değerlendirme çubuğu). Yerel renk tekerleği için örneğe tıkla ya da doğrudan kutuya hex yaz (\"#\" sabit kalır, sadece ardındaki 6 karakteri düzenlersin).",
-    "<b>Reklam engelleyici</b> Ayarlar'da. chess.com’un reklam alanlarını engeller, böylece tahta ve panel için daha fazla yer kalır.",
-    "<b>Geri bildirim bölümü</b> Ayarlar'da. Bildirmek istediğin bir sorun ya da önerin mi var? Tek tıkla geri bildirim formu bağlantısını aç."
+    [
+      "<b>Hamle açıklayıcı (beta)</b>. Oyun sekmesinde senin ve rakibinin hamlelerini oynanırken sade bir dille yorumlayan yeni anlatıcı.",
+      "<b>Vurgu rengi seçici</b> Ayarlar → Görünüm bölümünde. Arayüz vurgusu için istediğin rengi seç (panel vurguları, oklar, düğmeler, değerlendirme çubuğu). Yerel renk tekerleği için örneğe tıkla ya da doğrudan kutuya hex yaz (\"#\" sabit kalır, sadece ardındaki 6 karakteri düzenlersin).",
+      "<b>Reklam engelleyici</b> Ayarlar'da. chess.com’un reklam alanlarını engeller, böylece tahta ve panel için daha fazla yer kalır.",
+      "<b>Geri bildirim bölümü</b> Ayarlar'da. Bildirmek istediğin bir sorun ya da önerin mi var? Tek tıkla geri bildirim formu bağlantısını aç."
+    ],
+    [
+      "<b>Tampermonkey desteği</b>. Repoda artık özel bir userscript derlemesi var. Tampermonkey’i yükle, raw bağlantıya bir kez tıkla ve script her chess.com ve chesskid.com sayfasında otomatik yüklenir. Her yenilemeden sonra scripti yapıştırmak zorunda değilsin.",
+      "<b>Tüm site Temaları sayfası</b> Skins sekmesinde. Yeni 4. sayfa, tam site temalarıyla (AMOLED, Night Owl, Frutiger Aero, Pink ve daha fazlası). Tüm chess.com’a uygulamak için bir karoya tıkla; varsayılana dönmek için Temayı kaldır’a bas."
+    ]
   ],
   "explainerBeta": "Açıklayıcı beta aşamasında. Biraz belirsiz olabilir."
 }

@@ -218,10 +218,16 @@
   "tipFeedback": "Apre un modulo Google in una nuova scheda dove puoi segnalare bug, richiedere funzioni o inviare suggerimenti. Le tue impostazioni e ciò che digiti qui restano in locale — viene condiviso solo ciò che invii nel modulo.",
   "feedbackPrompt": "Hai trovato un bug o hai un suggerimento?",
   "changelog_1_5_0": [
-    "<b>Spiegatore di mosse (beta)</b>. Nuovo narratore nella scheda Partita che commenta le tue mosse e quelle dell’avversario mentre giochi, in linguaggio semplice.",
-    "<b>Selettore colore accento</b> in Impostazioni → Aspetto. Scegli qualsiasi colore per l’accento dell’interfaccia (evidenziazioni del pannello, frecce, pulsanti, barra di valutazione). Clicca sul campione per la ruota colori nativa, oppure digita un hex direttamente nella casella (il \"#\" resta fisso, modifichi solo i 6 caratteri successivi).",
-    "<b>Blocco pubblicità</b> in Impostazioni. Blocca gli spazi pubblicitari di chess.com per dare più respiro a scacchiera e pannello.",
-    "<b>Sezione feedback</b> in Impostazioni. Hai trovato un bug o vuoi suggerire una funzione? Apri con un clic il link al modulo di feedback."
+    [
+      "<b>Spiegatore di mosse (beta)</b>. Nuovo narratore nella scheda Partita che commenta le tue mosse e quelle dell’avversario mentre giochi, in linguaggio semplice.",
+      "<b>Selettore colore accento</b> in Impostazioni → Aspetto. Scegli qualsiasi colore per l’accento dell’interfaccia (evidenziazioni del pannello, frecce, pulsanti, barra di valutazione). Clicca sul campione per la ruota colori nativa, oppure digita un hex direttamente nella casella (il \"#\" resta fisso, modifichi solo i 6 caratteri successivi).",
+      "<b>Blocco pubblicità</b> in Impostazioni. Blocca gli spazi pubblicitari di chess.com per dare più respiro a scacchiera e pannello.",
+      "<b>Sezione feedback</b> in Impostazioni. Hai trovato un bug o vuoi suggerire una funzione? Apri con un clic il link al modulo di feedback."
+    ],
+    [
+      "<b>Supporto Tampermonkey</b>. Nel repo c’è ora una build userscript dedicata. Installa Tampermonkey, clicca una volta sul link raw e lo script si carica automaticamente su ogni pagina chess.com e chesskid.com. Basta incollare lo script dopo ogni ricarica.",
+      "<b>Pagina Temi del sito</b> nella scheda Skin. Nuova 4ª pagina con temi completi (AMOLED, Night Owl, Frutiger Aero, Pink e altri). Clicca una miniatura per applicare il tema a tutto chess.com; clicca Rimuovi tema per tornare al default."
+    ]
   ],
   "explainerBeta": "Lo Spiegatore è in beta. Può risultare un po’ vago."
 }

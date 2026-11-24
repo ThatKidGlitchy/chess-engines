@@ -218,10 +218,16 @@
   "tipFeedback": "Ouvre un formulaire Google dans un nouvel onglet où vous pouvez signaler des bugs, demander des fonctionnalités ou envoyer des suggestions. Vos réglages et ce que vous tapez ici restent en local — seul ce que vous soumettez dans le formulaire est partagé.",
   "feedbackPrompt": "Vous avez trouvé un bug ou une suggestion ?",
   "changelog_1_5_0": [
-    "<b>Explicateur de coups (bêta)</b>. Nouveau narrateur dans l’onglet Jeu qui commente tes coups et ceux de ton adversaire en temps réel, en langage clair.",
-    "<b>Sélecteur de couleur d’accent</b> dans Réglages → Apparence. Choisis n’importe quelle couleur d’accent pour l’interface (reflets du panneau, flèches, boutons, barre d’évaluation). Clique sur la pastille pour la roue chromatique native, ou tape un hex directement dans la case (le \"#\" reste en place, tu modifies les 6 caractères suivants).",
-    "<b>Bloqueur de pubs</b> dans Réglages. Bloque les emplacements publicitaires de chess.com pour que l’échiquier et le panneau respirent.",
-    "<b>Section Feedback</b> dans Réglages. Un bug à signaler ou une suggestion ? Ouvre en un clic le formulaire de feedback."
+    [
+      "<b>Explicateur de coups (bêta)</b>. Nouveau narrateur dans l’onglet Jeu qui commente tes coups et ceux de ton adversaire en temps réel, en langage clair.",
+      "<b>Sélecteur de couleur d’accent</b> dans Réglages → Apparence. Choisis n’importe quelle couleur d’accent pour l’interface (reflets du panneau, flèches, boutons, barre d’évaluation). Clique sur la pastille pour la roue chromatique native, ou tape un hex directement dans la case (le \"#\" reste en place, tu modifies les 6 caractères suivants).",
+      "<b>Bloqueur de pubs</b> dans Réglages. Bloque les emplacements publicitaires de chess.com pour que l’échiquier et le panneau respirent.",
+      "<b>Section Feedback</b> dans Réglages. Un bug à signaler ou une suggestion ? Ouvre en un clic le formulaire de feedback."
+    ],
+    [
+      "<b>Prise en charge de Tampermonkey</b>. Une build userscript dédiée est maintenant dans le dépôt. Installe Tampermonkey, clique une fois sur le lien raw et le script se charge automatiquement sur chaque page chess.com et chesskid.com. Fini le copier-coller après chaque rechargement.",
+      "<b>Page Thèmes complets</b> dans l’onglet Skins. Nouvelle 4e page avec des thèmes de site entiers (AMOLED, Night Owl, Frutiger Aero, Pink, etc.). Clique sur une vignette pour l’appliquer sur tout chess.com ; clique sur Effacer le thème pour revenir au défaut."
+    ]
   ],
   "explainerBeta": "L’Explicateur est en bêta. Il peut être un peu vague."
 }

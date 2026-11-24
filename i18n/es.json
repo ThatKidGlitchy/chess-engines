@@ -218,10 +218,16 @@
   "tipFeedback": "Abre un formulario de Google en una pestaña nueva donde puedes reportar errores, solicitar funciones o enviar sugerencias. Tus ajustes y lo que escribas aquí permanecen en local — solo se comparte lo que envíes en el formulario.",
   "feedbackPrompt": "¿Encontraste un error o tienes una sugerencia?",
   "changelog_1_5_0": [
-    "<b>Explicador de jugadas (beta)</b>. Nuevo narrador en la pestaña Partida que comenta tus jugadas y las de tu rival mientras juegas, en lenguaje claro.",
-    "<b>Selector de color de acento</b> en Ajustes → Apariencia. Elige cualquier color para el acento de la interfaz (realces del panel, flechas, botones, barra de evaluación). Haz clic en la muestra para la rueda de color nativa, o escribe un hex directamente en la caja (el \"#\" se queda fijo, solo editas los 6 caracteres).",
-    "<b>Bloqueador de anuncios</b> en Ajustes. Bloquea los espacios publicitarios de chess.com para que el tablero y el panel tengan más espacio.",
-    "<b>Sección de comentarios</b> en Ajustes. ¿Encontraste algo para reportar o quieres sugerir una función? Abre un enlace de un solo clic al formulario de comentarios."
+    [
+      "<b>Explicador de jugadas (beta)</b>. Nuevo narrador en la pestaña Partida que comenta tus jugadas y las de tu rival mientras juegas, en lenguaje claro.",
+      "<b>Selector de color de acento</b> en Ajustes → Apariencia. Elige cualquier color para el acento de la interfaz (realces del panel, flechas, botones, barra de evaluación). Haz clic en la muestra para la rueda de color nativa, o escribe un hex directamente en la caja (el \"#\" se queda fijo, solo editas los 6 caracteres).",
+      "<b>Bloqueador de anuncios</b> en Ajustes. Bloquea los espacios publicitarios de chess.com para que el tablero y el panel tengan más espacio.",
+      "<b>Sección de comentarios</b> en Ajustes. ¿Encontraste algo para reportar o quieres sugerir una función? Abre un enlace de un solo clic al formulario de comentarios."
+    ],
+    [
+      "<b>Soporte para Tampermonkey</b>. Ahora hay una build dedicada de userscript en el repositorio. Instala Tampermonkey, haz clic una vez en el enlace raw y el script se carga automáticamente en cada página de chess.com y chesskid.com. Ya no hace falta pegar el script tras cada recarga.",
+      "<b>Página de Temas de todo el sitio</b> en la pestaña Skins. Nueva 4ª página con temas completos (AMOLED, Night Owl, Frutiger Aero, Pink y más). Haz clic en una miniatura para aplicarlo en todo chess.com; pulsa Quitar tema para volver al original."
+    ]
   ],
   "explainerBeta": "El Explicador está en beta. Puede ser un poco vago."
 }

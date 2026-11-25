@@ -367,3 +367,33 @@ Xkcd
   Author: Randall Munroe
   License: CC BY-NC 2.5 (https://creativecommons.org/licenses/by-nc/2.5/)
   Source: https://xkcd.com/license.html
+
+Angel & Devil
+  Author: Fuan1
+  License: MIT (https://opensource.org/license/mit)
+  Source: https://github.com/Fuan1/chess-skin
+
+Animal
+  Author: Fuan1
+  License: MIT (https://opensource.org/license/mit)
+  Source: https://github.com/Fuan1/chess-skin
+
+Casino
+  Author: Fuan1
+  License: MIT (https://opensource.org/license/mit)
+  Source: https://github.com/Fuan1/chess-skin
+
+Frankenstein & Dracula
+  Author: Fuan1
+  License: MIT (https://opensource.org/license/mit)
+  Source: https://github.com/Fuan1/chess-skin
+
+Horror
+  Author: Fuan1
+  License: MIT (https://opensource.org/license/mit)
+  Source: https://github.com/Fuan1/chess-skin
+
+Machine
+  Author: Fuan1
+  License: MIT (https://opensource.org/license/mit)
+  Source: https://github.com/Fuan1/chess-skin

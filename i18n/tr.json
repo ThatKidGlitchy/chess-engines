@@ -226,7 +226,8 @@
     ],
     [
       "<b>ChessKid.com uyumluluğu</b>. Chess Assist artık <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a>’da da çalışıyor — aynı panel, aynı özellikler, ChessKid tahtasında aynı oklar ve değerlendirme çubuğu.",
-      "<b>Tüm site Temaları sayfası</b> Skins sekmesinde. Tam site temalarıyla yeni 4. sayfa (AMOLED, Night Owl, Frutiger Aero, Pembe ve daha fazlası). Temayı tüm sitede uygulamak için bir karoya tıklayın; varsayılana dönmek için Temayı temizle’ye tıklayın."
+      "<b>Tüm site Temaları sayfası</b> Skins sekmesinde. Tam site temalarıyla yeni 4. sayfa (AMOLED, Night Owl, Frutiger Aero, Pembe ve daha fazlası). Temayı tüm sitede uygulamak için bir karoya tıklayın; varsayılana dönmek için Temayı temizle’ye tıklayın.",
+      "<b>6 yeni tematik taş seti</b>. Angel & Devil, Animal, Casino, Frankenstein & Dracula, Horror ve Machine — <a href=\"https://github.com/Fuan1/chess-skin\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">Fuan1'in chess-skin'inden</a> tematik PNG setleri (MIT), artık Premade kataloguna eklendi."
     ]
   ],
   "explainerBeta": "Açıklayıcı beta aşamasında. Biraz belirsiz olabilir."

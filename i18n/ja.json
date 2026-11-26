@@ -226,7 +226,8 @@
     ],
     [
       "<b>ChessKid.com 対応</b>。Chess Assist が <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a> でも動作するようになりました—同じパネル、同じ機能、ChessKid の盤上でも同じ矢印と評価バーが使えます。",
-      "<b>サイト全体テーマページ</b>（Skins タブ内）。サイト全体テーマ（AMOLED、Night Owl、Frutiger Aero、Pink など）を集めた新しい 4 ページ目。タイルをクリックするとサイト全体にテーマが適用されます。「テーマをクリア」でデフォルトに戻ります。"
+      "<b>サイト全体テーマページ</b>（Skins タブ内）。サイト全体テーマ（AMOLED、Night Owl、Frutiger Aero、Pink など）を集めた新しい 4 ページ目。タイルをクリックするとサイト全体にテーマが適用されます。「テーマをクリア」でデフォルトに戻ります。",
+      "<b>6 つの新しいテーマ駒セット</b>。Angel & Devil、Animal、Casino、Frankenstein & Dracula、Horror、Machine — <a href=\"https://github.com/Fuan1/chess-skin\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">Fuan1 の chess-skin</a> からのテーマ別 PNG セット (MIT)。Premade カタログに追加されました。"
     ]
   ],
   "explainerBeta": "解説はベータ版です。少し曖昧に感じるかもしれません。"

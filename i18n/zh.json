@@ -226,7 +226,8 @@
     ],
     [
       "<b>兼容 ChessKid.com</b>。Chess Assist 现在也能在 <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a> 运行——同样的面板、同样的功能、同样的箭头和评估栏，都能在 ChessKid 棋盘上使用。",
-      "<b>全站主题页面</b>位于 Skins 选项卡。全新的第 4 页包含完整主题（AMOLED、Night Owl、Frutiger Aero、Pink 等）。点击缩略图即可在全站应用该主题；点击清除主题即可恢复默认。"
+      "<b>全站主题页面</b>位于 Skins 选项卡。全新的第 4 页包含完整主题（AMOLED、Night Owl、Frutiger Aero、Pink 等）。点击缩略图即可在全站应用该主题；点击清除主题即可恢复默认。",
+      "<b>6 套全新主题棋子</b>。Angel & Devil、Animal、Casino、Frankenstein & Dracula、Horror 和 Machine — 来自 <a href=\"https://github.com/Fuan1/chess-skin\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">Fuan1 chess-skin</a> 的主题 PNG 棋子套装（MIT），现已加入 Premade 目录。"
     ]
   ],
   "explainerBeta": "讲解功能处于测试阶段。描述可能会有点模糊。"

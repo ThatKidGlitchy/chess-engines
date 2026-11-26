@@ -223,7 +223,8 @@
     ],
     [
       "<b>ChessKid.com compatibility</b>. Chess Assist now runs on <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a> too — same panel, same features, same arrows and eval bar on the ChessKid board.",
-      "<b>Whole-site Themes page</b> in the Skins tab. New 4th page with full site themes (AMOLED, Night Owl, Frutiger Aero, Pink, and more). Click a tile to apply the theme across the site; hit Clear theme to go back to default."
+      "<b>Whole-site Themes page</b> in the Skins tab. New 4th page with full site themes (AMOLED, Night Owl, Frutiger Aero, Pink, and more). Click a tile to apply the theme across the site; hit Clear theme to go back to default.",
+      "<b>6 new novelty piece sets</b>. Angel & Devil, Animal, Casino, Frankenstein & Dracula, Horror, and Machine — themed PNG sets from <a href=\"https://github.com/Fuan1/chess-skin\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">Fuan1's chess-skin</a> (MIT), now in the Premade catalog."
     ]
   ],
   "explainerBeta": "Explainer is in beta. It might be a bit vague."

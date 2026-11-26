@@ -226,7 +226,8 @@
     ],
     [
       "<b>Совместимость с ChessKid.com</b>. Chess Assist теперь работает и на <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a> — тот же панель, те же функции, те же стрелки и полоса оценки на доске ChessKid.",
-      "<b>Страница тем всего сайта</b> во вкладке Skins. Новая 4-я страница с полными темами (AMOLED, Night Owl, Frutiger Aero, Pink и др.). Нажмите на плитку, чтобы применить тему ко всему сайту; нажмите «Сбросить тему», чтобы вернуться к стандартной."
+      "<b>Страница тем всего сайта</b> во вкладке Skins. Новая 4-я страница с полными темами (AMOLED, Night Owl, Frutiger Aero, Pink и др.). Нажмите на плитку, чтобы применить тему ко всему сайту; нажмите «Сбросить тему», чтобы вернуться к стандартной.",
+      "<b>6 новых тематических наборов фигур</b>. Angel & Devil, Animal, Casino, Frankenstein & Dracula, Horror и Machine — PNG-наборы от <a href=\"https://github.com/Fuan1/chess-skin\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">Fuan1 chess-skin</a> (MIT), теперь в каталоге Premade."
     ]
   ],
   "explainerBeta": "Объяснитель в бета-версии. Может быть немного расплывчатым."

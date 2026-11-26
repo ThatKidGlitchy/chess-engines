@@ -226,7 +226,8 @@
     ],
     [
       "<b>ChessKid.com 호환</b>. 이제 Chess Assist는 <a href=\"https://www.chesskid.com\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">chesskid.com</a>에서도 동일한 패널, 동일한 기능, ChessKid 보드에서 동일한 화살표와 평가 바를 제공합니다.",
-      "<b>사이트 전체 테마 페이지</b>가 Skins 탭에 추가되었습니다. 전체 사이트 테마(AMOLED, Night Owl, Frutiger Aero, Pink 등)가 포함된 새로운 4번째 페이지. 타일을 클릭하여 사이트 전체에 테마를 적용하고, Clear theme를 눌러 기본값으로 돌아갑니다."
+      "<b>사이트 전체 테마 페이지</b>가 Skins 탭에 추가되었습니다. 전체 사이트 테마(AMOLED, Night Owl, Frutiger Aero, Pink 등)가 포함된 새로운 4번째 페이지. 타일을 클릭하여 사이트 전체에 테마를 적용하고, Clear theme를 눌러 기본값으로 돌아갑니다.",
+      "<b>6개의 새로운 테마 피스 세트</b>. Angel & Devil, Animal, Casino, Frankenstein & Dracula, Horror, Machine — <a href=\"https://github.com/Fuan1/chess-skin\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--ch-accent);text-decoration:underline;\">Fuan1의 chess-skin</a> 에서 가져온 테마 PNG 세트 (MIT)가 이제 Premade 카탈로그에 추가되었습니다."
     ]
   ],
   "explainerBeta": "해설은 베타입니다. 다소 모호할 수 있습니다."
